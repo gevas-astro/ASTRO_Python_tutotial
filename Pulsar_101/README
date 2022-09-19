@@ -1,0 +1,5 @@
+##FILE LAB_Xray_walktrough1.ipynb 
+example of how to open an XMM-Newton fits image with standard python tools, extract events and perform simple period search with epoch folding meathod
+
+##FILE LAB_Xray_simulate_pulse.ipynb
+sampling events based on a sinusoidal signal, one can play and search for pulsations. notice how the periodic signal can be detected if it strong enough (high amplitude) and/or statistics (i.e. detected events/photons) is high.

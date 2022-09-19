@@ -1,0 +1,5 @@
+# OGLE_LScargle
+example of reading OGLE data from file and pergforming period search
+
+# OGLE_fitting
+example of reading OGLE data from file, selecting a subset of points and performing a fit with various models
