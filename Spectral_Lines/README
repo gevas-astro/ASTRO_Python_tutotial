@@ -8,3 +8,9 @@ https://drive.google.com/drive/folders/1IzcCNYb01jyBqiNzRBqmj39yfLBRWP93?usp=sha
 
 https://colab.research.google.com/drive/10FWmQjBFFlhZGFNVTrGhRGVEDnIpGF3v?usp=sharing
 
+
+astropy                   5.3.4 
+specutils                 1.11.0 
+numpy                     1.23.5
+plotly                    5.18.0
+pandas                    1.5.3
