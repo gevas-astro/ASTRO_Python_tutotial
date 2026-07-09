@@ -1,0 +1,1537 @@
+trigger,target_id,name,ra,dec,pos_err_arcsec,enhanced,z_limit,has_position,curve_url
+1444088,01444088,GRB260127A,15 27 31.11,+06 45 45.4,1.9,Yes,3.6,True,https://www.swift.ac.uk/xrt_curves/01444088/
+1442454,01442454,GRB260120B,18 58 38.42,+61 54 18.1,3.6,No,2.9,True,https://www.swift.ac.uk/xrt_curves/01442454/
+1442421,01442421,BAT_Trigger_1442421,14 01 07.28,-64 13 12.5,5.5,No,2.0,True,https://www.swift.ac.uk/xrt_curves/01442421/
+1440319,01440319,GRB260114A,04 58 23.49,-08 00 51.9,3.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/01440319/
+1439093,01439093,GRB260113A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01439093/
+1436759,01436759,BAT_Trigger_1436759,,,,,,False,https://www.swift.ac.uk/xrt_curves/01436759/
+1434591,01434591,GRB260109C,,,,,,False,https://www.swift.ac.uk/xrt_curves/01434591/
+1430212,01430212,GRB260104A,22 29 35.77,-21 17 43.2,2.1,Yes,2.8,True,https://www.swift.ac.uk/xrt_curves/01430212/
+1429608,01429608,GRB260101A,05 45 42.76,+63 35 31.2,1.9,Yes,3.0,True,https://www.swift.ac.uk/xrt_curves/01429608/
+1429020,01429020,GRB251230A,11 59 35.47,+11 26 17.8,1.9,Yes,2.5,True,https://www.swift.ac.uk/xrt_curves/01429020/
+1426088,01426088,GRB251221A,06 45 42.66,+00 43 56.1,1.9,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/01426088/
+1423875,01423875,GRB251214B,22 00 50.53,-09 09 47.7,1.9,Yes,2.7,True,https://www.swift.ac.uk/xrt_curves/01423875/
+1420873,01420873,GRB251205A,13 21 05.39,+29 55 47.8,3.9,No,4.6,True,https://www.swift.ac.uk/xrt_curves/01420873/
+1418729,01418729,GRB251201B,00 25 34.75,-44 14 01.2,2.1,Yes,2.4,True,https://www.swift.ac.uk/xrt_curves/01418729/
+1418333,01418333,BAT_Trigger_1418333,,,,,,False,https://www.swift.ac.uk/xrt_curves/01418333/
+1417793,01417793,GRB251126A,06 39 46.35,+54 59 09.1,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/01417793/
+1413695,01413695,GRB251112A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01413695/
+1409824,01409824,GRB251103B,07 03 29.68,-24 52 17.8,2.0,Yes,3.0,True,https://www.swift.ac.uk/xrt_curves/01409824/
+1406589,01406589,GRB251024A,20 26 23.38,-68 34 20.1,1.9,Yes,4.5,True,https://www.swift.ac.uk/xrt_curves/01406589/
+1405083,01405083,GRB251018A,18 48 10.91,-37 01 39.8,5.1,No,,True,https://www.swift.ac.uk/xrt_curves/01405083/
+1404904,01404904,GRB251017A,22 21 36.29,+07 02 24.3,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01404904/
+1404295,01404295,GRB251015A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01404295/
+1403191,01403191,GRB251011A,00 52 56.46,-62 01 57.7,3.8,No,3.9,True,https://www.swift.ac.uk/xrt_curves/01403191/
+1402467,01402467,GRB251007B,06 48 31.76,-10 18 11.8,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/01402467/
+1401726,01401726,GRB251005A,05 02 44.02,+16 52 49.3,2.0,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/01401726/
+1400964,01400964,GRB251003A,01 14 06.81,+56 29 26.9,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/01400964/
+1400467,01400467,GRB251001A,02 50 36.24,-23 01 12.5,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01400467/
+1351790,01351790,GRB250924A,03 27 29.40,+74 39 33.8,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/01351790/
+1350381,01350381,GRB250917B,,,,,,False,https://www.swift.ac.uk/xrt_curves/01350381/
+1348587,01348587,GRB250911A,17 35 00.24,-16 51 16.1,3.7,No,4.1,True,https://www.swift.ac.uk/xrt_curves/01348587/
+1347265,01347265,GRB250905A,15 32 01.51,+00 47 38.2,3.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/01347265/
+1347179,01347179,GRB250904A,05 37 31.27,+03 35 04.8,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/01347179/
+1344586,01344586,GRB250823A,19 49 54.71,-24 59 45.0,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/01344586/
+1344131,01344131,GRB250821A,23 53 45.73,-28 39 13.3,2.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01344131/
+1343270,01343270,GRB250818A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01343270/
+1342439,01342439,GRB250814A,20 25 13.90,+48 23 56.5,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/01342439/
+1340954,01340954,GRB250809A,15 32 00.10,-53 17 46.5,3.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/01340954/
+1340514,01340514,GRB250807A,03 25 47.28,-47 53 12.3,3.5,No,4.4,True,https://www.swift.ac.uk/xrt_curves/01340514/
+1339848,01339848,GRB250805A,01 36 48.57,-81 24 05.5,3.7,No,3.2,True,https://www.swift.ac.uk/xrt_curves/01339848/
+1336720,01336720,GRB250725A,02 21 54.74,-82 47 27.2,3.5,No,3.6,True,https://www.swift.ac.uk/xrt_curves/01336720/
+1330958,01330958,GRB250706A,18 56 04.21,+32 19 16.3,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/01330958/
+1328546,01328546,GRB250628A,02 34 12.58,-38 04 44.7,1.9,Yes,4.5,True,https://www.swift.ac.uk/xrt_curves/01328546/
+1327910,01327910,GRB250625A,17 26 02.12,+22 16 02.0,1.9,Yes,4.4,True,https://www.swift.ac.uk/xrt_curves/01327910/
+1325580,01325580,GRB250617B,22 11 35.17,+32 43 57.4,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01325580/
+1324646,01324646,GRB250615A,19 21 32.53,+04 41 06.6,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01324646/
+1320335,01320335,GRB250603A,08 39 45.02,-39 17 34.0,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01320335/
+1319125,01319125,GRB250530A,03 40 40.87,-22 26 53.7,1.9,Yes,3.5,True,https://www.swift.ac.uk/xrt_curves/01319125/
+1315630,01315630,GRB250520A,18 49 08.67,-11 52 08.3,2.0,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/01315630/
+1314210,01314210,GRB250516A,22 18 26.33,-09 07 08.5,1.9,Yes,4.2,True,https://www.swift.ac.uk/xrt_curves/01314210/
+1311764,01311764,GRB250509A,03 05 47.90,-38 50 28.6,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01311764/
+1310284,01310284,GRB250504A,17 58 28.08,-40 21 59.1,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01310284/
+1308754,01308754,GRB250430A,15 33 32.70,-18 07 04.4,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/01308754/
+1306404,01306404,GRB250424A,14 29 59.98,-35 01 30.1,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01306404/
+1299967,01299967,GRB250331C,05 23 49.54,+33 03 47.4,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01299967/
+1299965,01299965,GRB250331A,04 45 29.72,+43 48 38.1,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01299965/
+1299776,01299776,GRB250330A,16 51 48.36,-86 52 47.0,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/01299776/
+1297832,01297832,GRB250322A,07 07 02.42,+07 11 34.0,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01297832/
+1297508,01297508,GRB250321A,19 40 23.70,+21 02 27.5,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/01297508/
+1294765,01294765,GRB250312A,01 58 04.58,-42 23 45.0,1.9,Yes,3.6,True,https://www.swift.ac.uk/xrt_curves/01294765/
+1290305,01290305,GRB250221A,03 57 51.03,-15 08 01.3,1.9,Yes,3.4,True,https://www.swift.ac.uk/xrt_curves/01290305/
+1287821,01287821,GRB250207A,01 04 21.62,-12 09 52.2,4.4,No,,True,https://www.swift.ac.uk/xrt_curves/01287821/
+1285812,01285812,GRB250129A,13 14 42.49,+05 01 50.9,1.9,Yes,3.4,True,https://www.swift.ac.uk/xrt_curves/01285812/
+1285677,01285677,GRB250128B,15 25 42.12,-00 32 22.2,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01285677/
+1281241,01281241,GRB250114A,11 06 18.39,-15 06 42.0,1.9,Yes,4.7,True,https://www.swift.ac.uk/xrt_curves/01281241/
+1280056,01280056,GRB250108B,13 25 18.45,+25 36 55.5,2.0,Yes,2.8,True,https://www.swift.ac.uk/xrt_curves/01280056/
+1278865,01278865,GRB250103B,03 38 39.39,-33 44 58.0,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01278865/
+1278305,01278305,GRB250101A,02 28 16.51,+19 11 39.4,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01278305/
+1277277,01277277,GRB241228A,22 59 12.41,+18 36 35.8,1.9,Yes,2.3,True,https://www.swift.ac.uk/xrt_curves/01277277/
+1275005,01275005,GRB241218A,12 22 43.55,+29 58 22.9,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01275005/
+1274039,01274039,GRB241213A,07 44 41.17,+35 16 46.3,1.9,Yes,2.1,True,https://www.swift.ac.uk/xrt_curves/01274039/
+1273071,01273071,GRB241209A,10 21 35.28,+06 19 42.7,1.9,Yes,4.4,True,https://www.swift.ac.uk/xrt_curves/01273071/
+1270999,01270999,GRB241128A,18 14 53.89,+33 26 18.9,3.8,No,2.0,True,https://www.swift.ac.uk/xrt_curves/01270999/
+1270788,01270788,GRB241127A,21 51 32.05,-56 39 52.5,4.0,No,4.5,True,https://www.swift.ac.uk/xrt_curves/01270788/
+1267921,01267921,GRB241115A,05 47 04.84,-00 40 28.9,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01267921/
+1267501,01267501,GRB241113A,01 06 15.62,-22 40 16.2,4.6,No,,True,https://www.swift.ac.uk/xrt_curves/01267501/
+1263840,01263840,GRB241030B,03 23 10.24,+34 26 48.9,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01263840/
+1262764,01262764,GRB241026A,19 33 35.88,+57 59 08.3,1.9,Yes,2.3,True,https://www.swift.ac.uk/xrt_curves/01262764/
+1262165,01262165,GRB241025A,22 14 37.48,+83 34 32.9,1.9,Yes,4.4,True,https://www.swift.ac.uk/xrt_curves/01262165/
+1259578,01259578,GRB241010A,10 13 31.47,+11 32 04.9,1.9,Yes,2.7,True,https://www.swift.ac.uk/xrt_curves/01259578/
+1258721,01258721,GRB241006A,20 18 58.20,-40 48 18.5,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01258721/
+1256950,01256950,BAT_Trigger_1256950,,,,,,False,https://www.swift.ac.uk/xrt_curves/01256950/
+1253910,01253910,GRB240912A,08 18 32.63,+33 59 55.2,3.5,No,4.0,True,https://www.swift.ac.uk/xrt_curves/01253910/
+1252695,01252695,GRB240905A,23 03 12.83,+35 31 25.6,4.3,No,,True,https://www.swift.ac.uk/xrt_curves/01252695/
+1250282,01250282,GRB240824A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01250282/
+1248132,01248132,GRB240811A,15 05 26.90,+28 53 44.6,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01248132/
+1245636,01245636,GRB240730A,02 31 21.18,+59 01 43.8,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01245636/
+1245074,01245074,BAT_Trigger_1245074,15 45 44.98,+08 37 12.0,3.5,No,5.0,True,https://www.swift.ac.uk/xrt_curves/01245074/
+1244778,01244778,BAT_Trigger_1244778,,,,,,False,https://www.swift.ac.uk/xrt_curves/01244778/
+1236151,01236151,EXO 0748-676,07 48 33.50,-67 45 09.7,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01236151/
+1235109,01235109,GRB240606A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01235109/
+1232465,01232465,BAT_Trigger_1232465,,,,,,False,https://www.swift.ac.uk/xrt_curves/01232465/
+1231488,01231488,GRB240529A,22 21 25.69,+51 33 43.6,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/01231488/
+1230423,01230423,GRB240523A,02 14 16.30,-22 02 00.2,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01230423/
+1228797,01228797,GRB240516A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01228797/
+1227767,01227767,GRB240511A,22 26 42.16,+08 30 47.4,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01227767/
+1223470,01223470,GRB240421B,19 58 48.18,-14 51 34.6,1.9,Yes,3.4,True,https://www.swift.ac.uk/xrt_curves/01223470/
+1223072,01223072,GRB240419B,21 43 35.13,+04 14 07.7,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/01223072/
+1222955,01222955,GRB240419A,06 18 08.06,-44 59 60.0,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01222955/
+1222885,01222885,GRB240418A,15 57 29.62,+23 35 45.8,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01222885/
+1221874,01221874,GRB240415A,08 36 45.85,+73 08 46.0,3.6,No,2.1,True,https://www.swift.ac.uk/xrt_curves/01221874/
+1221183,01221183,BAT_Trigger_1221183,15 26 10.17,-02 08 45.9,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01221183/
+1220160,01220160,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01220160/
+1220158,01220158,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01220158/
+1220157,01220157,BAT_Trigger_1220157,,,,,,False,https://www.swift.ac.uk/xrt_curves/01220157/
+1220155,01220155,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01220155/
+1220095,01220095,BAT_Trigger_1220095,,,,,,False,https://www.swift.ac.uk/xrt_curves/01220095/
+1220094,01220094,BAT_Trigger_1220094,,,,,,False,https://www.swift.ac.uk/xrt_curves/01220094/
+1219994,01219994,BAT_Trigger_1219994,,,,,,False,https://www.swift.ac.uk/xrt_curves/01219994/
+1219986,01219986,BAT_Trigger_1219986,,,,,,False,https://www.swift.ac.uk/xrt_curves/01219986/
+1219563,01219563,Non-burst,09 02 10.91,-40 31 53.9,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/01219563/
+1218969,01218969,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218969/
+1218968,01218968,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218968/
+1218695,01218695,BAT_Trigger_1218695,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218695/
+1218694,01218694,BAT_Trigger_1218694,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218694/
+1218693,01218693,BAT_Trigger_1218693,20 03 57.49,+34 10 38.6,4.6,No,,True,https://www.swift.ac.uk/xrt_curves/01218693/
+1218691,01218691,BAT_Trigger_1218691,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218691/
+1218690,01218690,BAT_Trigger_1218690,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218690/
+1218508,01218508,BAT_Trigger_1218508,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218508/
+1218507,01218507,BAT_Trigger_1218507,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218507/
+1218505,01218505,BAT_Trigger_1218505,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218505/
+1218499,01218499,BAT_Trigger_1218499,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218499/
+1218498,01218498,BAT_Trigger_1218498,19 58 23.78,+34 48 57.1,5.3,No,,True,https://www.swift.ac.uk/xrt_curves/01218498/
+1218419,01218419,BAT_Trigger_1218419,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218419/
+1218418,01218418,BAT_Trigger_1218418,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218418/
+1218417,01218417,BAT_Trigger_1218417,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218417/
+1218416,01218416,BAT_Trigger_1218416,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218416/
+1218401,01218401,BAT_Trigger_1218401,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218401/
+1218398,01218398,BAT_Trigger_1218398,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218398/
+1218302,01218302,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218302/
+1218301,01218301,Non-burst,05 36 10.58,+21 49 06.4,12.3,No,,True,https://www.swift.ac.uk/xrt_curves/01218301/
+1218294,01218294,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01218294/
+1218082,01218082,BAT_Trigger_1218082,16 17 36.56,-15 37 36.0,6.9,No,,True,https://www.swift.ac.uk/xrt_curves/01218082/
+1217799,01217799,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01217799/
+1217733,01217733,BAT_Trigger_1217733,,,,,,False,https://www.swift.ac.uk/xrt_curves/01217733/
+1217732,01217732,BAT_Trigger_1217732,,,,,,False,https://www.swift.ac.uk/xrt_curves/01217732/
+1216864,01216864,BAT_Trigger_1216864,19 59 23.93,+35 33 18.6,5.5,No,,True,https://www.swift.ac.uk/xrt_curves/01216864/
+1216804,01216804,GRB240222A,09 32 54.00,-68 01 50.7,3.5,No,4.6,True,https://www.swift.ac.uk/xrt_curves/01216804/
+1216748,01216748,BAT_Trigger_1216748,,,,,,False,https://www.swift.ac.uk/xrt_curves/01216748/
+1216746,01216746,BAT_Trigger_1216746,,,,,,False,https://www.swift.ac.uk/xrt_curves/01216746/
+1215912,01215912,GRB240218A,10 47 11.36,+01 16 45.8,3.7,No,2.7,True,https://www.swift.ac.uk/xrt_curves/01215912/
+1215687,01215687,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01215687/
+1212898,01212898,GRB240204A,06 56 43.73,+01 01 38.8,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/01212898/
+1212787,01212787,BAT_Trigger_1212787,,,,,,False,https://www.swift.ac.uk/xrt_curves/01212787/
+1212715,01212715,BAT_Trigger_1212715,,,,,,False,https://www.swift.ac.uk/xrt_curves/01212715/
+1212375,01212375,Non-burst,17 02 40.39,-37 44 42.8,5.8,No,,True,https://www.swift.ac.uk/xrt_curves/01212375/
+1211211,01211211,BAT_Trigger_1211211,,,,,,False,https://www.swift.ac.uk/xrt_curves/01211211/
+1210276,01210276,GRB240123A,13 17 23.51,+60 37 08.2,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/01210276/
+1209403,01209403,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01209403/
+1209398,01209398,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01209398/
+1208389,01208389,GRB240112A,18 02 34.14,+24 29 17.9,4.7,No,,True,https://www.swift.ac.uk/xrt_curves/01208389/
+1205899,01205899,BAT_Trigger_1205899,06 27 21.12,-20 02 26.7,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01205899/
+1205744,01205744,GRB240101B,,,,,,False,https://www.swift.ac.uk/xrt_curves/01205744/
+1205708,01205708,BAT_Trigger_1205708,00 41 23.56,+08 31 01.6,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01205708/
+1205319,01205319,GRB231230A,16 20 51.24,+58 07 35.7,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01205319/
+1205107,01205107,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01205107/
+1202749,01202749,GRB231216A,02 39 05.50,+33 34 34.9,3.7,No,3.0,True,https://www.swift.ac.uk/xrt_curves/01202749/
+1202522,01202522,GRB231215A,00 38 58.02,+57 38 47.4,3.6,No,2.7,True,https://www.swift.ac.uk/xrt_curves/01202522/
+1202386,01202386,GRB231214A,20 22 45.76,-72 25 56.7,4.6,No,,True,https://www.swift.ac.uk/xrt_curves/01202386/
+1201696,01201696,GRB231210B,06 23 11.35,-48 22 17.6,1.9,Yes,2.9,True,https://www.swift.ac.uk/xrt_curves/01201696/
+1200812,01200812,GRB231205A,03 36 35.79,+27 08 27.6,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/01200812/
+1200559,01200559,BAT_Trigger_1200559,09 02 41.05,-40 13 14.8,5.8,No,,True,https://www.swift.ac.uk/xrt_curves/01200559/
+1199764,01199764,GRB231129A,21 10 10.95,+41 31 14.5,3.8,No,3.2,True,https://www.swift.ac.uk/xrt_curves/01199764/
+1197311,01197311,GRB231118A,00 19 19.65,-48 02 20.8,3.5,No,4.2,True,https://www.swift.ac.uk/xrt_curves/01197311/
+1197027,01197027,GRB231117A,22 09 33.85,+13 31 21.4,3.5,No,3.0,True,https://www.swift.ac.uk/xrt_curves/01197027/
+1194500,01194500,GRB231104A,01 35 11.74,+83 47 35.8,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01194500/
+1192236,01192236,BAT_Trigger_1192236,,,,,,False,https://www.swift.ac.uk/xrt_curves/01192236/
+1191994,01191994,BAT_Trigger_1191994,,,,,,False,https://www.swift.ac.uk/xrt_curves/01191994/
+1191188,01191188,GRB230911A,15 07 11.53,-41 19 47.0,4.2,No,,True,https://www.swift.ac.uk/xrt_curves/01191188/
+1189514,01189514,GRB230903A,00 39 38.81,-40 56 57.5,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01189514/
+1186032,01186032,GRB230818A,19 03 33.49,+40 53 43.2,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/01186032/
+1185685,01185685,BAT_Trigger_1185685,,,,,,False,https://www.swift.ac.uk/xrt_curves/01185685/
+1185673,01185673,GRB230816A,21 53 46.77,+37 51 17.6,1.9,Yes,5.0,True,https://www.swift.ac.uk/xrt_curves/01185673/
+1185505,01185505,GRB230815A,12 18 53.54,-58 03 11.0,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01185505/
+1183217,01183217,GRB230805B,13 50 58.25,+31 11 27.7,1.9,Yes,3.5,True,https://www.swift.ac.uk/xrt_curves/01183217/
+1182085,01182085,GRB230802A,05 04 57.58,+19 33 41.4,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/01182085/
+1181187,01181187,GRB230728A,22 54 03.75,+28 10 28.9,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01181187/
+1180410,01180410,GRB230723B,,,,,,False,https://www.swift.ac.uk/xrt_curves/01180410/
+1180063,01180063,GRB230720A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01180063/
+1180060,01180060,Non-burst,03 11 16.50,+59 51 07.0,4.6,No,2.0,True,https://www.swift.ac.uk/xrt_curves/01180060/
+1178410,01178410,BAT_Trigger_1178410,,,,,,False,https://www.swift.ac.uk/xrt_curves/01178410/
+1177054,01177054,GRB230628A,11 27 23.72,-11 27 49.9,1.9,Yes,4.6,True,https://www.swift.ac.uk/xrt_curves/01177054/
+1175438,01175438,GRB230618A,13 06 25.27,+03 18 08.6,1.9,Yes,2.9,True,https://www.swift.ac.uk/xrt_curves/01175438/
+1173731,01173731,GRB230606A,11 07 14.68,+36 29 03.8,3.6,No,2.5,True,https://www.swift.ac.uk/xrt_curves/01173731/
+1165948,01165948,GRB230427A,10 13 14.90,+48 12 14.6,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01165948/
+1165354,01165354,GRB230423A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01165354/
+1164980,01164980,GRB230420A,10 44 11.67,+32 06 28.0,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01164980/
+1164180,01164180,GRB230414B,12 04 22.65,+53 09 15.4,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01164180/
+1163401,01163401,GRB230409B,21 58 03.62,+52 49 56.6,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01163401/
+1163119,01163119,GRB230405B,18 05 45.84,-47 04 11.2,1.9,Yes,2.1,True,https://www.swift.ac.uk/xrt_curves/01163119/
+1162001,01162001,GRB230328B,19 24 01.48,+80 00 35.1,1.9,Yes,3.5,True,https://www.swift.ac.uk/xrt_curves/01162001/
+1161390,01161390,GRB230325A,19 47 23.85,-46 04 32.2,1.9,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/01161390/
+1161127,01161127,GRB230322B,01 06 12.67,-47 42 02.7,1.9,Yes,3.7,True,https://www.swift.ac.uk/xrt_curves/01161127/
+1156572,01156572,GRB230228A,01 13 30.73,+44 28 58.4,1.9,Yes,3.5,True,https://www.swift.ac.uk/xrt_curves/01156572/
+1154815,01154815,GRB230216A,07 35 50.23,-08 00 41.8,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01154815/
+1153670,01153670,GRB230210A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01153670/
+1152764,01152764,GRB230205A,13 28 17.19,+46 43 34.2,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01152764/
+1152509,01152509,GRB230204A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01152509/
+1150429,01150429,GRB230123A,02 43 25.96,-65 41 12.7,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01150429/
+1149293,01149293,GRB230116D,06 34 28.23,+49 52 20.7,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01149293/
+1145959,01145959,GRB221226A,01 31 38.14,-41 31 35.3,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/01145959/
+1144538,01144538,BAT_Trigger_1144538,,,,,,False,https://www.swift.ac.uk/xrt_curves/01144538/
+1142997,01142997,GRB221202A,05 08 19.78,-59 49 56.4,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01142997/
+1142847,01142847,GRB221201A,17 47 41.46,-68 14 55.7,3.7,No,2.3,True,https://www.swift.ac.uk/xrt_curves/01142847/
+1141030,01141030,BAT_Trigger_1141030,02 45 21.22,+43 14 33.7,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01141030/
+1136936,01136936,GRB221110A,01 56 23.76,-27 17 43.9,1.9,Yes,5.0,True,https://www.swift.ac.uk/xrt_curves/01136936/
+1131910,01131910,GRB221028A,20 56 48.67,+41 05 23.0,3.9,No,2.0,True,https://www.swift.ac.uk/xrt_curves/01131910/
+1131397,01131397,GRB221027B,15 02 29.15,+47 26 29.8,1.9,Yes,3.6,True,https://www.swift.ac.uk/xrt_curves/01131397/
+1131029,01131029,GRB221024A,11 18 57.70,+33 02 32.7,3.5,No,3.5,True,https://www.swift.ac.uk/xrt_curves/01131029/
+1129775,01129775,GRB221016A,02 35 46.75,-34 36 37.4,3.7,No,4.9,True,https://www.swift.ac.uk/xrt_curves/01129775/
+1125809,01125809,GRB220930A,04 18 52.14,+13 20 57.3,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01125809/
+1123129,01123129,GRB220907A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01123129/
+1121751,01121751,GRB220826A,13 45 38.46,-44 02 21.6,1.9,Yes,3.2,True,https://www.swift.ac.uk/xrt_curves/01121751/
+1120270,01120270,GRB220813A,05 26 07.58,-33 00 59.5,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01120270/
+1118357,01118357,GRB220730A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01118357/
+1116441,01116441,GRB220715B,16 59 30.04,-33 35 52.5,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01116441/
+1116172,01116172,BAT_Trigger_1116172,,,,,,False,https://www.swift.ac.uk/xrt_curves/01116172/
+1115766,01115766,GRB220711A,17 28 04.85,+24 40 48.0,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/01115766/
+1115156,01115156,GRB220708A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01115156/
+1114937,01114937,GRB220706A,00 02 25.09,-16 24 39.9,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01114937/
+1114034,01114034,GRB220701A,16 10 01.56,+55 24 24.3,3.8,No,3.0,True,https://www.swift.ac.uk/xrt_curves/01114034/
+1111672,01111672,GRB220623A,09 41 35.15,+75 49 16.5,3.6,No,2.8,True,https://www.swift.ac.uk/xrt_curves/01111672/
+1111002,01111002,BAT_Trigger_1111002,19 58 10.88,+35 06 34.2,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/01111002/
+1110821,01110821,GRB220618A,02 35 57.02,+55 12 54.1,1.9,Yes,4.4,True,https://www.swift.ac.uk/xrt_curves/01110821/
+1110090,01110090,GRB220611A,04 26 03.40,-37 15 32.4,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01110090/
+1108515,01108515,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01108515/
+1107466,01107466,GRB220521A,18 20 55.15,+10 22 19.9,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01107466/
+1107050,01107050,GRB220518A,03 41 22.26,-47 35 02.4,1.9,Yes,2.5,True,https://www.swift.ac.uk/xrt_curves/01107050/
+1104692,01104692,GRB220430A,06 30 27.04,+09 32 50.3,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01104692/
+1104343,01104343,GRB220427A,18 23 33.20,-56 15 17.4,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/01104343/
+1102281,01102281,GRB220412A,08 15 51.73,+30 20 32.4,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/01102281/
+1101675,01101675,GRB220408A,13 29 40.02,+47 04 08.1,3.5,No,3.8,True,https://www.swift.ac.uk/xrt_curves/01101675/
+1101053,01101053,GRB220403B,12 46 00.85,+89 11 01.9,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/01101053/
+1100848,01100848,BAT_Trigger_1100848,,,,,,False,https://www.swift.ac.uk/xrt_curves/01100848/
+1099310,01099310,GRB220325A,17 57 56.98,-07 02 12.9,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/01099310/
+1098132,01098132,GRB220319A,14 32 54.07,+61 17 38.8,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/01098132/
+1095288,01095288,GRB220306B,00 21 32.96,+71 21 47.7,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/01095288/
+1095215,01095215,GRB220305A,07 10 23.61,-37 40 48.5,3.7,No,3.6,True,https://www.swift.ac.uk/xrt_curves/01095215/
+1094950,01094950,GRB220302A,20 05 43.64,+49 23 17.9,4.0,No,,True,https://www.swift.ac.uk/xrt_curves/01094950/
+1093742,01093742,GRB220118A,12 49 04.66,+22 54 59.2,3.5,No,3.8,True,https://www.swift.ac.uk/xrt_curves/01093742/
+1093592,01093592,GRB220117A,06 06 17.54,-28 26 16.7,3.5,No,4.2,True,https://www.swift.ac.uk/xrt_curves/01093592/
+1091101,01091101,GRB211227A,08 48 35.75,-02 44 08.2,3.8,No,3.8,True,https://www.swift.ac.uk/xrt_curves/01091101/
+1090472,01090472,GRB211221A,05 15 35.61,+00 54 51.9,3.5,No,2.0,True,https://www.swift.ac.uk/xrt_curves/01090472/
+1088376,01088376,GRB211207A,09 58 29.97,-24 21 35.0,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/01088376/
+1086826,01086826,GRB211203A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01086826/
+1085430,01085430,GRB211129A,18 18 19.45,+31 47 17.1,3.7,No,2.3,True,https://www.swift.ac.uk/xrt_curves/01085430/
+1082569,01082569,GRB211105A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01082569/
+1081113,01081113,GRB211025A,10 49 32.18,+31 30 46.3,3.7,No,3.7,True,https://www.swift.ac.uk/xrt_curves/01081113/
+1080859,01080859,GRB211023B,11 21 14.58,+39 08 08.7,3.6,No,2.7,True,https://www.swift.ac.uk/xrt_curves/01080859/
+1078701,01078701,GRB211010A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01078701/
+1076121,01076121,BAT_Trigger_1076121,,,,,,False,https://www.swift.ac.uk/xrt_curves/01076121/
+1075565,01075565,GRB210930A,13 09 36.48,+48 37 43.0,3.7,No,2.1,True,https://www.swift.ac.uk/xrt_curves/01075565/
+1073893,01073893,GRB210919A,05 21 01.05,+01 18 39.1,6.2,No,,True,https://www.swift.ac.uk/xrt_curves/01073893/
+1072990,01072990,GRB210912A,08 39 32.64,+79 13 22.0,7.6,No,,True,https://www.swift.ac.uk/xrt_curves/01072990/
+1072706,01072706,SGR Swift J1555.2-5402,15 55 09.07,-54 03 42.5,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01072706/
+1071993,01071993,GRB210905A,20 36 11.56,-44 26 22.5,7.0,No,,True,https://www.swift.ac.uk/xrt_curves/01071993/
+1071488,01071488,GRB210901A,19 41 06.44,-76 55 35.0,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01071488/
+1070298,01070298,BAT_Trigger_1070298,15 55 08.58,-54 03 41.4,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01070298/
+1070157,01070157,GRB210824A,15 28 25.26,+11 09 07.0,7.1,No,2.3,True,https://www.swift.ac.uk/xrt_curves/01070157/
+1069551,01069551,GRB210820A,01 22 33.52,+04 36 28.3,1.9,Yes,4.9,True,https://www.swift.ac.uk/xrt_curves/01069551/
+1069169,01069169,GRB210818A,09 55 26.73,-87 01 30.0,1.9,Yes,3.3,True,https://www.swift.ac.uk/xrt_curves/01069169/
+1064421,01064421,GRB210807C,09 34 08.27,-51 24 08.7,7.0,No,,True,https://www.swift.ac.uk/xrt_curves/01064421/
+1062150,01062150,GRB210730A,09 58 21.96,+69 41 32.2,8.2,No,,True,https://www.swift.ac.uk/xrt_curves/01062150/
+1061687,01061687,GRB210726A,12 53 09.77,+19 11 23.7,1.9,Yes,4.0,True,https://www.swift.ac.uk/xrt_curves/01061687/
+1061554,01061554,GRB210725B,12 51 41.26,+17 06 28.9,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01061554/
+1061511,01061511,GRB210725A,14 21 29.77,-01 11 35.7,1.9,Yes,5.0,True,https://www.swift.ac.uk/xrt_curves/01061511/
+1061482,01061482,GRB210724A,15 09 38.83,-06 17 27.8,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01061482/
+1061284,01061284,GRB210723A,08 06 53.12,-32 53 06.4,1.9,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/01061284/
+1061223,01061223,GRB210722A,01 48 07.27,-06 20 50.5,1.9,Yes,2.9,True,https://www.swift.ac.uk/xrt_curves/01061223/
+1059881,01059881,GRB210712A,06 29 19.61,-35 22 18.0,1.9,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/01059881/
+1059460,01059460,GRB210708A,11 34 56.83,-49 09 06.3,7.0,No,,True,https://www.swift.ac.uk/xrt_curves/01059460/
+1057131,01057131,Swift J1555.2-5402,15 55 08.65,-54 03 40.7,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01057131/
+1056757,01056757,GRB210619B,21 18 52.35,+33 51 01.7,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01056757/
+1056426,01056426,GRB210618A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01056426/
+1054627,01054627,GRB210610A,13 37 07.76,+14 27 54.1,2.1,Yes,4.4,True,https://www.swift.ac.uk/xrt_curves/01054627/
+1051453,01051453,GRB210527A,11 29 17.20,+31 37 27.4,3.8,No,3.6,True,https://www.swift.ac.uk/xrt_curves/01051453/
+1048783,01048783,GRB210517A,23 52 53.88,-39 06 07.2,2.1,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/01048783/
+1048618,01048618,BAT_Trigger_1048618,00 04 22.13,-14 57 11.7,4.9,No,,True,https://www.swift.ac.uk/xrt_curves/01048618/
+1047531,01047531,GRB210509A,23 21 29.88,+06 40 17.2,4.1,No,,True,https://www.swift.ac.uk/xrt_curves/01047531/
+1046782,01046782,BAT_Trigger_1046782,,,,,,False,https://www.swift.ac.uk/xrt_curves/01046782/
+1045571,01045571,BAT_Trigger_1045571,,,,,,False,https://www.swift.ac.uk/xrt_curves/01045571/
+1044426,01044426,GRB210421A,06 59 30.17,+04 55 18.0,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/01044426/
+1044382,01044382,BAT_Trigger_1044382,16 57 17.40,+42 34 09.9,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/01044382/
+1044236,01044236,BAT_Trigger_1044236,,,,,,False,https://www.swift.ac.uk/xrt_curves/01044236/
+1044032,01044032,GRB210419A,05 47 24.97,-65 30 12.0,3.5,No,3.0,True,https://www.swift.ac.uk/xrt_curves/01044032/
+1042398,01042398,GRB210411C,19 46 26.01,-39 23 54.9,3.5,No,4.2,True,https://www.swift.ac.uk/xrt_curves/01042398/
+1042113,01042113,BAT_Trigger_1042113,17 59 01.00,+45 21 48.2,6.1,No,,True,https://www.swift.ac.uk/xrt_curves/01042113/
+1040123,01040123,GRB210402A,13 13 02.07,+44 30 47.4,3.5,No,4.8,True,https://www.swift.ac.uk/xrt_curves/01040123/
+1038247,01038247,GRB210323A,21 11 47.04,+25 22 12.1,3.5,No,2.5,True,https://www.swift.ac.uk/xrt_curves/01038247/
+1037828,01037828,GRB210321A,05 51 35.04,+70 07 50.5,3.6,No,2.9,True,https://www.swift.ac.uk/xrt_curves/01037828/
+1037339,01037339,GRB210318A,02 15 42.32,-37 46 38.4,2.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/01037339/
+1035922,01035922,GRB210305A,21 19 14.53,+34 33 16.2,2.1,Yes,4.0,True,https://www.swift.ac.uk/xrt_curves/01035922/
+1036139,01036139,GRB210307A,07 56 57.39,-66 58 13.7,4.5,No,,True,https://www.swift.ac.uk/xrt_curves/01036139/
+1036227,01036227,GRB210308A,04 28 17.90,+37 26 02.7,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/01036227/
+1034721,01034721,GRB210226A,08 16 27.48,+57 35 02.2,2.1,Yes,3.3,True,https://www.swift.ac.uk/xrt_curves/01034721/
+1034325,01034325,BAT_Trigger_1034325,10 18 25.47,-14 55 54.0,2.0,Yes,3.2,True,https://www.swift.ac.uk/xrt_curves/01034325/
+1033264,01033264,GRB210217A,06 30 20.10,+68 43 30.5,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/01033264/
+1033144,01033144,BAT_Trigger_1033144,18 30 41.49,-06 45 15.8,4.2,No,2.8,True,https://www.swift.ac.uk/xrt_curves/01033144/
+1032350,01032350,BAT_Trigger_1032350,18 30 41.62,-06 45 14.8,2.0,Yes,2.7,True,https://www.swift.ac.uk/xrt_curves/01032350/
+1032183,01032183,GRB210212A,04 49 03.99,+07 16 09.5,3.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/01032183/
+1032024,01032024,GRB210211A,17 57 44.99,-46 15 57.7,3.4,Yes,3.2,True,https://www.swift.ac.uk/xrt_curves/01032024/
+1031728,01031728,GRB210210A,17 31 04.92,+14 39 50.3,3.5,No,4.3,True,https://www.swift.ac.uk/xrt_curves/01031728/
+1031636,01031636,GRB210209A,21 52 29.72,+43 33 25.6,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/01031636/
+1030629,01030629,GRB210205A,23 08 53.13,+56 17 39.4,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/01030629/
+1016881,01016881,GRB210112A,14 36 01.18,+33 03 17.3,3.5,No,2.1,True,https://www.swift.ac.uk/xrt_curves/01016881/
+1015919,01015919,GRB210104B,03 34 12.81,+37 55 49.4,2.1,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01015919/
+1015615,01015615,BAT_Trigger_1015615,,,,,,False,https://www.swift.ac.uk/xrt_curves/01015615/
+1015088,01015088,GRB201229A,14 02 45.33,+48 11 51.3,2.0,Yes,3.6,True,https://www.swift.ac.uk/xrt_curves/01015088/
+1014316,01014316,GRB201223A,08 51 09.31,+71 10 46.1,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/01014316/
+1014037,01014037,GRB201221D,11 24 14.09,+42 08 37.5,4.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/01014037/
+1014012,01014012,GRB201221B,,,,,,False,https://www.swift.ac.uk/xrt_curves/01014012/
+1013852,01013852,GRB201221A,14 17 55.28,-45 24 59.3,2.3,Yes,2.4,True,https://www.swift.ac.uk/xrt_curves/01013852/
+1013243,01013243,GRB201216C,01 05 29.07,+16 31 00.0,3.5,No,2.0,True,https://www.swift.ac.uk/xrt_curves/01013243/
+1011980,01011980,GRB201209A,01 32 21.84,-01 45 13.0,3.5,No,2.6,True,https://www.swift.ac.uk/xrt_curves/01011980/
+1009679,01009679,GRB201128A,14 52 26.00,+26 41 03.8,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/01009679/
+1006917,01006917,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/01006917/
+1005428,01005428,SGR 1830-0645,18 30 41.63,-06 45 17.6,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/01005428/
+1004219,01004219,BAT_Trigger_1004219,18 30 41.70,-06 45 18.1,2.2,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/01004219/
+1003002,01003002,GRB201029A,15 18 19.67,+44 27 35.6,3.5,No,3.2,True,https://www.swift.ac.uk/xrt_curves/01003002/
+1002158,01002158,GRB201027A,10 23 52.80,-05 30 36.2,2.0,Yes,3.1,True,https://www.swift.ac.uk/xrt_curves/01002158/
+1002103,01002103,GRB201026A,13 06 57.01,+83 46 59.3,3.9,No,2.5,True,https://www.swift.ac.uk/xrt_curves/01002103/
+1001514,01001514,GRB201024A,08 23 48.50,+03 21 13.7,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/01001514/
+1001130,01001130,GRB201021C,00 50 07.06,-55 51 57.9,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/01001130/
+1000926,01000926,GRB201020A,17 24 54.68,+31 25 43.8,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/01000926/
+1000613,01000613,GRB201017A,02 26 28.50,+66 40 43.4,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/01000613/
+1000452,01000452,GRB201015A,23 37 16.95,+53 24 52.6,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/01000452/
+1000255,01000255,GRB201014A,,,,,,False,https://www.swift.ac.uk/xrt_curves/01000255/
+999948,00999948,GRB201013A,07 09 34.15,+57 02 06.9,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00999948/
+999571,00999571,GRB201010A,18 30 40.85,-06 45 17.3,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00999571/
+998907,00998907,GRB201006A,04 07 34.33,+65 09 54.0,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00998907/
+998344,00998344,GRB201001A,07 20 19.38,-02 12 37.4,4.4,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00998344/
+997453,00997453,GRB200925B,16 27 08.83,+78 23 25.5,2.0,Yes,2.4,True,https://www.swift.ac.uk/xrt_curves/00997453/
+997024,00997024,GRB200922A,19 47 49.02,-55 12 08.8,4.2,No,,True,https://www.swift.ac.uk/xrt_curves/00997024/
+996184,00996184,GRB200917A,15 42 53.86,-04 42 04.9,2.1,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00996184/
+995004,00995004,GRB200907B,05 56 06.93,+06 54 22.8,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00995004/
+994856,00994856,GRB200906A,18 09 05.70,+67 52 46.1,2.3,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/00994856/
+994143,00994143,GRB200901A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00994143/
+992444,00992444,GRB200821A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00992444/
+992099,00992099,GRB200819A,01 25 41.76,+63 03 40.9,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00992099/
+990358,00990358,BAT_Trigger_990358,,,,,,False,https://www.swift.ac.uk/xrt_curves/00990358/
+989458,00989458,GRB200816A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00989458/
+987016,00987016,GRB200806A,03 31 43.62,+37 04 42.4,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00987016/
+984929,00984929,GRB200729A,12 17 30.62,+45 35 37.8,3.5,No,2.1,True,https://www.swift.ac.uk/xrt_curves/00984929/
+982707,00982707,GRB200716C,13 04 02.40,+29 38 42.6,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00982707/
+982201,00982201,GRB200713A,05 07 47.81,-32 48 51.7,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00982201/
+981957,00981957,GRB200711A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00981957/
+980513,00980513,BAT_Trigger_980513,18 18 00.35,-16 07 53.5,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00980513/
+980210,00980210,GRB200630A,06 05 19.27,-60 45 08.3,2.4,Yes,4.6,True,https://www.swift.ac.uk/xrt_curves/00980210/
+974942,00974942,GRB200529A,15 55 03.77,-11 04 19.7,5.2,No,,True,https://www.swift.ac.uk/xrt_curves/00974942/
+973628,00973628,GRB200522A,00 22 43.76,-00 16 56.7,3.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/00973628/
+972614,00972614,GRB200516A,18 18 00.23,-16 07 53.0,3.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00972614/
+971846,00971846,GRB200512A,00 29 39.57,-02 12 36.4,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00971846/
+970886,00970886,GRB200509A,07 45 41.56,-04 37 51.7,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00970886/
+969823,00969823,GRB200506A,18 18 00.25,-16 07 52.7,3.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00969823/
+967774,00967774,GRB200425A,05 40 52.69,-13 26 06.8,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00967774/
+966554,00966554,GRB200416A,22 22 47.78,-07 31 05.4,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00966554/
+965784,00965784,GRB200411A,03 10 39.36,-52 19 07.1,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00965784/
+965638,00965638,GRB200410A,19 58 34.98,+51 46 53.6,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00965638/
+965484,00965484,GRB200409A,04 02 08.79,-50 13 30.1,2.1,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/00965484/
+963260,00963260,GRB200324A,14 50 41.30,+35 56 27.8,3.5,No,2.4,True,https://www.swift.ac.uk/xrt_curves/00963260/
+960986,00960986,GRB200312A,18 18 00.23,-16 07 51.4,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00960986/
+960102,00960102,GRB200306C,13 14 13.36,+11 16 12.3,3.5,No,4.6,True,https://www.swift.ac.uk/xrt_curves/00960102/
+959917,00959917,BAT_Trigger_959917,06 44 25.20,-62 00 20.9,3.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00959917/
+959431,00959431,GRB200303A,14 10 52.63,+51 21 33.3,3.5,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00959431/
+958733,00958733,GRB200228A,16 48 11.35,+16 59 06.2,5.7,No,,True,https://www.swift.ac.uk/xrt_curves/00958733/
+958592,00958592,GRB200227A,03 45 43.96,+09 28 56.6,3.5,No,2.3,True,https://www.swift.ac.uk/xrt_curves/00958592/
+958141,00958141,GRB200224A,16 35 04.20,+41 36 45.1,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00958141/
+957271,00957271,GRB200219A,22 50 33.14,-59 07 10.8,2.3,Yes,2.8,True,https://www.swift.ac.uk/xrt_curves/00957271/
+956824,00956824,GRB200216B,10 41 44.25,+19 28 32.6,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00956824/
+956639,00956639,GRB200215A,02 16 19.05,+12 46 13.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00956639/
+954840,00954840,GRB200207A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00954840/
+954519,00954519,GRB200205B,07 11 09.12,-56 29 15.0,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00954519/
+952791,00952791,GRB200127A,19 40 46.59,+44 54 01.3,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00952791/
+950330,00950330,GRB200122A,14 00 04.07,+27 32 58.9,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00950330/
+948361,00948361,GRB200109A,20 28 30.21,+52 59 35.5,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00948361/
+948219,00948219,GRB200107A,07 07 42.16,-83 43 08.0,21.3,No,,True,https://www.swift.ac.uk/xrt_curves/00948219/
+946476,00946476,GRB191228A,00 21 23.20,-08 40 57.1,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00946476/
+945344,00945344,GRB191220A,18 45 31.19,+26 39 20.9,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00945344/
+939079,00939079,GRB191123A,14 21 02.89,+22 51 35.0,2.0,Yes,3.3,True,https://www.swift.ac.uk/xrt_curves/00939079/
+938899,00938899,GRB191122A,03 37 04.86,-32 11 10.9,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00938899/
+937114,00937114,BAT_Trigger_937114,,,,,,False,https://www.swift.ac.uk/xrt_curves/00937114/
+933515,00933515,GRB191106A,17 57 20.55,+46 02 06.9,2.3,Yes,4.1,True,https://www.swift.ac.uk/xrt_curves/00933515/
+932742,00932742,GRB191101A,16 47 20.97,+43 44 26.3,2.1,Yes,4.2,True,https://www.swift.ac.uk/xrt_curves/00932742/
+932608,00932608,GRB191031D,18 53 09.36,+47 38 38.2,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00932608/
+932595,00932595,GRB191031C,07 43 29.01,-62 19 30.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00932595/
+932058,00932058,GRB191029A,23 28 38.27,-40 30 02.2,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00932058/
+931484,00931484,BAT_Trigger_931484,,,,,,False,https://www.swift.ac.uk/xrt_curves/00931484/
+931384,00931384,GRB191025A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00931384/
+931242,00931242,GRB191024A,00 40 27.21,-67 08 35.0,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00931242/
+930285,00930285,GRB191019A,22 40 05.87,-17 19 42.3,2.8,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00930285/
+929981,00929981,GRB191017B,16 20 29.89,-73 32 26.0,2.1,Yes,4.8,True,https://www.swift.ac.uk/xrt_curves/00929981/
+928924,00928924,GRB191011A,02 58 54.73,-27 50 44.3,2.0,Yes,3.2,True,https://www.swift.ac.uk/xrt_curves/00928924/
+927839,00927839,GRB191004B,03 16 48.93,-39 38 05.4,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00927839/
+927825,00927825,GRB191004A,02 06 40.68,-36 56 00.5,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00927825/
+922968,00922968,GRB190829A,02 58 10.57,-08 57 29.1,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00922968/
+922808,00922808,GRB190828B,16 47 19.53,+27 16 49.9,2.0,Yes,4.1,True,https://www.swift.ac.uk/xrt_curves/00922808/
+922107,00922107,GRB190824A,14 21 13.12,-41 53 38.4,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00922107/
+921722,00921722,GRB190821A,16 40 13.11,-34 00 25.9,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00921722/
+915381,00915381,GRB190719A,16 00 49.68,+12 59 59.6,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00915381/
+915091,00915091,GRB190718A,22 26 18.19,-41 12 15.0,2.1,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00915091/
+913302,00913302,GRB190706B,07 09 50.78,-29 33 09.1,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00913302/
+912310,00912310,GRB190701A,01 52 19.56,+58 54 34.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00912310/
+912239,00912239,GRB190630B,19 35 31.02,-32 44 34.4,3.7,No,4.1,True,https://www.swift.ac.uk/xrt_curves/00912239/
+911609,00911609,GRB190627A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00911609/
+911102,00911102,GRB190624A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00911102/
+908329,00908329,GRB190613B,20 21 43.69,-04 38 50.4,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00908329/
+908288,00908288,GRB190613A,12 10 07.16,+67 14 07.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00908288/
+907950,00907950,GRB190611A,21 38 53.59,-56 04 28.0,2.1,Yes,2.9,True,https://www.swift.ac.uk/xrt_curves/00907950/
+906654,00906654,GRB190604B,19 50 09.92,-32 58 41.4,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00906654/
+904394,00904394,GRB190519A,07 39 04.14,-38 48 18.7,2.0,Yes,2.7,True,https://www.swift.ac.uk/xrt_curves/00904394/
+903845,00903845,GRB190515A,06 35 23.73,+52 19 00.4,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00903845/
+903158,00903158,GRB190511A,08 25 46.76,-20 15 35.2,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/00903158/
+900730,00900730,GRB190427A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00900730/
+899979,00899979,GRB190422A,12 08 08.29,-60 13 28.9,2.1,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00899979/
+897653,00897653,GRB190409A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00897653/
+895503,00895503,GRB190327A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00895503/
+895479,00895479,GRO J2058+42,20 58 47.44,+41 46 35.3,2.1,Yes,2.7,True,https://www.swift.ac.uk/xrt_curves/00895479/
+894718,00894718,GRB190324A,03 18 28.90,-47 12 43.7,3.6,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00894718/
+894557,00894557,BAT_Trigger_894557,02 40 31.89,+61 13 44.6,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00894557/
+894268,00894268,BAT_Trigger_894268,20 58 47.70,+41 46 27.6,4.6,No,,True,https://www.swift.ac.uk/xrt_curves/00894268/
+893808,00893808,GRB190320A,07 51 23.83,-45 53 17.0,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00893808/
+892607,00892607,GRB190311A,14 08 15.65,+53 30 02.4,2.0,Yes,2.3,True,https://www.swift.ac.uk/xrt_curves/00892607/
+889785,00889785,GRB190220A,22 00 38.56,-76 40 51.9,2.2,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00889785/
+889748,00889748,GRB190219A,12 38 30.33,+76 36 46.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00889748/
+889483,00889483,GRB190218A,18 58 34.70,-08 14 14.8,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00889483/
+889443,00889443,BAT_Trigger_889443,19 58 27.42,+35 10 42.1,4.0,No,,True,https://www.swift.ac.uk/xrt_curves/00889443/
+888648,00888648,GRB190211A,13 06 38.16,+41 58 02.0,3.5,No,3.7,True,https://www.swift.ac.uk/xrt_curves/00888648/
+887579,00887579,GRB190204A,23 25 54.66,+54 52 35.3,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00887579/
+887217,00887217,GRB190202A,11 06 00.33,+09 22 34.1,3.7,No,3.2,True,https://www.swift.ac.uk/xrt_curves/00887217/
+885314,00885314,GRB190123A,03 32 52.97,+45 31 27.3,4.0,No,,True,https://www.swift.ac.uk/xrt_curves/00885314/
+883818,00883818,GRB190114B,11 39 29.65,+18 53 32.4,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00883818/
+883600,00883600,GRB190114A,04 22 10.54,+02 11 28.6,2.0,Yes,3.8,True,https://www.swift.ac.uk/xrt_curves/00883600/
+882809,00882809,GRB190109B,03 41 56.88,+63 35 31.2,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00882809/
+882747,00882747,GRB190109A,02 12 48.48,+38 06 29.1,2.0,Yes,2.8,True,https://www.swift.ac.uk/xrt_curves/00882747/
+882252,00882252,GRB190106A,01 59 31.29,+23 50 42.0,2.0,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/00882252/
+881709,00881709,GRB190103B,14 10 16.30,+35 15 39.1,4.0,No,2.7,True,https://www.swift.ac.uk/xrt_curves/00881709/
+879909,00879909,GRB181228A,03 19 14.87,+13 12 06.8,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00879909/
+878504,00878504,GRB181222A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00878504/
+876016,00876016,GRB181213A,16 33 05.09,+78 29 51.2,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00876016/
+874754,00874754,BAT_Trigger_874754,,,,,,False,https://www.swift.ac.uk/xrt_curves/00874754/
+874475,00874475,GRB181203A,07 13 23.70,-39 48 06.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00874475/
+874334,00874334,GRB181202A,18 42 56.47,+27 57 33.5,2.0,Yes,3.2,True,https://www.swift.ac.uk/xrt_curves/00874334/
+873539,00873539,GRB181126A,10 09 23.46,-29 41 15.0,2.5,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00873539/
+873186,00873186,GRB181123B,12 17 28.08,+14 35 52.5,2.1,Yes,2.5,True,https://www.swift.ac.uk/xrt_curves/00873186/
+872556,00872556,BAT_Trigger_872556,,,,,,False,https://www.swift.ac.uk/xrt_curves/00872556/
+872470,00872470,GRB181118A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00872470/
+871316,00871316,GRB181110A,20 09 16.26,-36 53 48.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00871316/
+871103,00871103,BAT_Trigger_871103,12 32 15.16,+13 20 31.0,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00871103/
+870201,00870201,GRB181103A,13 08 27.86,+52 13 32.4,2.1,Yes,2.5,True,https://www.swift.ac.uk/xrt_curves/00870201/
+868846,00868846,GRB181026A,09 00 52.16,-40 17 19.9,5.5,No,,True,https://www.swift.ac.uk/xrt_curves/00868846/
+868427,00868427,GRB181023A,16 33 18.98,+19 34 12.0,2.1,Yes,2.8,True,https://www.swift.ac.uk/xrt_curves/00868427/
+868312,00868312,GRB181022A,03 47 10.09,-29 22 47.2,2.1,Yes,3.1,True,https://www.swift.ac.uk/xrt_curves/00868312/
+866783,00866783,GRB181013A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00866783/
+866434,00866434,GRB181010A,03 30 16.90,-23 02 17.8,2.1,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00866434/
+865179,00865179,GRB181003A,03 30 06.98,-33 57 52.0,4.5,No,,True,https://www.swift.ac.uk/xrt_curves/00865179/
+865036,00865036,GRB181002A,04 18 59.11,+15 12 48.4,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00865036/
+864584,00864584,GRB180930A,05 07 27.19,-25 07 00.8,2.0,Yes,3.7,True,https://www.swift.ac.uk/xrt_curves/00864584/
+863421,00863421,GRB180925A,21 00 48.92,-64 27 24.9,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00863421/
+863186,00863186,GRB180924A,03 16 48.10,-58 31 55.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00863186/
+863053,00863053,BAT_Trigger_863053,,,,,,False,https://www.swift.ac.uk/xrt_curves/00863053/
+859282,00859282,GRB180904A,18 16 59.92,+46 37 46.0,2.1,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/00859282/
+855434,00855434,GRB180823A,14 01 25.48,+14 53 25.1,4.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00855434/
+854578,00854578,GRB180821A,00 31 09.20,-38 37 35.8,3.7,No,2.1,True,https://www.swift.ac.uk/xrt_curves/00854578/
+853882,00853882,GRB180818B,06 56 54.10,+39 18 55.2,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00853882/
+853824,00853824,GRB180818A,11 18 32.68,-48 20 39.1,2.2,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00853824/
+852903,00852903,GRB180812A,16 23 20.30,+74 39 52.1,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00852903/
+852625,00852625,GRB180810A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00852625/
+851855,00851855,GRB180805B,01 43 07.54,-17 29 34.1,2.1,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00851855/
+851829,00851829,GRB180805A,11 10 15.46,-45 19 52.5,3.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00851829/
+850231,00850231,BAT_Trigger_850231,23 06 39.69,-63 03 01.9,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00850231/
+849018,00849018,GRB180721A,23 10 50.58,+04 51 21.7,2.0,Yes,3.2,True,https://www.swift.ac.uk/xrt_curves/00849018/
+848932,00848932,GRB180720C,17 42 32.36,-26 37 48.9,5.3,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00848932/
+848048,00848048,GRB180715A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00848048/
+847216,00847216,BAT_Trigger_847216,16 38 31.20,-20 55 25.1,4.6,No,,True,https://www.swift.ac.uk/xrt_curves/00847216/
+846868,00846868,GRB180709A,02 32 28.29,+60 20 56.8,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00846868/
+846740,00846740,BAT_Trigger_846740,,,,,,False,https://www.swift.ac.uk/xrt_curves/00846740/
+846395,00846395,GRB180706A,12 06 34.25,+66 02 12.1,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00846395/
+846299,00846299,GRB180705A,14 10 27.12,-11 38 54.1,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00846299/
+846088,00846088,GRB180704A,02 10 38.31,+69 57 51.1,2.0,Yes,3.6,True,https://www.swift.ac.uk/xrt_curves/00846088/
+845443,00845443,GRB180630A,03 15 51.14,-87 28 41.8,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00845443/
+844615,00844615,GRB180626A,16 14 18.19,+14 45 25.0,2.0,Yes,2.5,True,https://www.swift.ac.uk/xrt_curves/00844615/
+844015,00844015,GRB180623A,14 18 06.99,-60 15 13.6,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00844015/
+843211,00843211,GRB180620B,23 50 05.08,-57 57 45.9,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00843211/
+843122,00843122,GRB180620A,18 39 35.00,+23 14 38.3,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00843122/
+842475,00842475,GRB180618A,11 19 45.54,+73 50 11.4,3.6,No,2.8,True,https://www.swift.ac.uk/xrt_curves/00842475/
+841548,00841548,GRB180614A,00 12 18.86,+46 57 11.5,2.1,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00841548/
+840853,00840853,GRB180613A,14 06 04.89,-43 04 19.9,2.0,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/00840853/
+835200,00835200,GRB180602A,09 29 19.61,+32 03 58.1,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00835200/
+834937,00834937,BAT_Trigger_834937,14 01 58.72,+12 00 54.3,3.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00834937/
+832368,00832368,GRB180514A,13 09 29.29,+36 58 16.0,3.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00832368/
+832119,00832119,GRB180512A,13 27 45.23,+21 24 09.8,4.4,No,,True,https://www.swift.ac.uk/xrt_curves/00832119/
+831888,00831888,BAT_Trigger_831888,,,,,,False,https://www.swift.ac.uk/xrt_curves/00831888/
+831816,00831816,GRB180510B,05 11 52.71,-62 19 24.9,3.6,No,4.3,True,https://www.swift.ac.uk/xrt_curves/00831816/
+830822,00830822,GRB180504A,22 04 34.61,-14 39 30.0,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00830822/
+829046,00829046,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00829046/
+828672,00828672,GRB180425A,04 17 48.33,-32 57 07.4,2.0,Yes,4.9,True,https://www.swift.ac.uk/xrt_curves/00828672/
+826428,00826428,GRB180418A,11 20 28.90,+24 55 57.4,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/00826428/
+824451,00824451,GRB180411A,23 47 25.08,+66 46 42.2,3.7,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00824451/
+824063,00824063,GRB180410A,06 23 49.65,+12 48 39.8,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00824063/
+823014,00823014,GRB180407B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00823014/
+821902,00821902,GRB180404B,03 33 34.83,-50 12 53.1,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00821902/
+821881,00821881,GRB180404A,05 34 11.67,-37 10 06.4,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00821881/
+821103,00821103,GRB180402A,16 47 44.06,-14 58 06.9,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00821103/
+820513,00820513,GRB180331B,13 07 07.91,+61 43 34.9,2.0,Yes,4.7,True,https://www.swift.ac.uk/xrt_curves/00820513/
+820347,00820347,GRB180331A,04 24 05.84,+13 23 53.1,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00820347/
+819490,00819490,GRB180329B,05 31 36.92,-23 41 28.9,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00819490/
+818110,00818110,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00818110/
+817345,00817345,GRB180324A,05 06 06.49,+56 42 49.2,2.0,Yes,2.2,True,https://www.swift.ac.uk/xrt_curves/00817345/
+814677,00814677,GRB180316A,17 41 42.94,+00 44 54.0,2.1,Yes,3.4,True,https://www.swift.ac.uk/xrt_curves/00814677/
+814305,00814305,GRB180314B,19 51 32.82,+23 37 27.4,1.9,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00814305/
+814129,00814129,GRB180314A,06 37 03.62,-24 29 48.0,2.0,Yes,4.0,True,https://www.swift.ac.uk/xrt_curves/00814129/
+813721,00813721,GRB180311A,00 13 32.93,-54 29 29.0,2.1,Yes,4.0,True,https://www.swift.ac.uk/xrt_curves/00813721/
+811686,00811686,BAT_Trigger_811686,,,,,,False,https://www.swift.ac.uk/xrt_curves/00811686/
+811561,00811561,GRB180224A,13 30 44.07,+38 04 44.0,2.0,Yes,4.4,True,https://www.swift.ac.uk/xrt_curves/00811561/
+811235,00811235,GRB180222A,17 06 09.88,-36 48 33.5,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00811235/
+811074,00811074,GRB180221A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00811074/
+810300,00810300,Swift J1658.2-4242,16 58 12.67,-42 41 55.4,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00810300/
+809374,00809374,BAT_Trigger_809374,19 58 51.37,+35 04 42.1,8.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00809374/
+808755,00808755,GRB180205B,16 47 10.12,-45 52 16.2,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00808755/
+808625,00808625,BAT_Trigger_808625,08 27 14.19,+11 33 07.8,6.8,No,,True,https://www.swift.ac.uk/xrt_curves/00808625/
+808483,00808483,GRB180204A,22 00 32.00,+30 50 17.1,2.1,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00808483/
+805318,00805318,GRB180115A,00 48 09.32,-15 37 50.5,2.0,Yes,3.3,True,https://www.swift.ac.uk/xrt_curves/00805318/
+804692,00804692,GRB180111A,09 59 06.73,+48 16 03.2,3.6,No,3.1,True,https://www.swift.ac.uk/xrt_curves/00804692/
+802999,00802999,GRB180102A,13 32 16.07,+62 10 18.6,2.1,Yes,3.4,True,https://www.swift.ac.uk/xrt_curves/00802999/
+799669,00799669,GRB171222A,09 53 06.80,+35 37 36.1,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00799669/
+797441,00797441,GRB171216A,14 07 58.14,-50 29 05.4,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00797441/
+797070,00797070,GRB171214A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00797070/
+796778,00796778,GRB171212A,19 35 40.36,+20 35 29.7,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00796778/
+796469,00796469,GRB171211A,06 32 32.10,-58 41 30.9,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00796469/
+796115,00796115,BAT_Trigger_796115,,,,,,False,https://www.swift.ac.uk/xrt_curves/00796115/
+791922,00791922,GRB171123A,12 24 58.12,+32 30 11.9,3.2,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00791922/
+791201,00791201,GRB171120A,10 55 09.85,+22 27 31.1,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00791201/
+790053,00790053,GRB171115A,18 33 33.23,+09 07 29.2,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00790053/
+785510,00785510,GRB171102B,19 12 18.54,+22 26 39.7,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00785510/
+783893,00783893,GRB171029A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00783893/
+783479,00783479,GRB171027A,04 06 45.78,-02 37 20.4,2.1,Yes,3.2,True,https://www.swift.ac.uk/xrt_curves/00783479/
+781740,00781740,BAT_Trigger_781740,00 42 32.10,+41 13 12.5,4.3,No,,True,https://www.swift.ac.uk/xrt_curves/00781740/
+780845,00780845,GRB171020A,02 36 59.57,+15 12 14.9,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00780845/
+780203,00780203,PSR J1647-4552,16 47 10.09,-45 52 17.1,2.1,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00780203/
+779171,00779171,BAT_Trigger_779171,,,,,,False,https://www.swift.ac.uk/xrt_curves/00779171/
+778435,00778435,GRB171013A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00778435/
+777215,00777215,GRB171007A,09 02 24.19,+42 49 09.5,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00777215/
+775553,00775553,GRB171001A,01 28 18.59,-11 53 38.6,2.0,Yes,3.3,True,https://www.swift.ac.uk/xrt_curves/00775553/
+773894,00773894,BAT_Trigger_773894,16 31 11.31,-48 04 06.1,4.3,No,,True,https://www.swift.ac.uk/xrt_curves/00773894/
+773509,00773509,GRB170921A,01 47 23.70,+30 54 24.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00773509/
+772052,00772052,GRB170912B,14 21 50.08,-61 59 48.8,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00772052/
+772006,00772006,GRB170912A,11 09 29.61,-54 19 34.4,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00772006/
+770981,00770981,GRB170906C,08 34 36.11,+70 48 43.4,3.5,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00770981/
+770958,00770958,GRB170906B,15 28 48.90,-28 15 22.5,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00770958/
+770528,00770528,GRB170903A,16 58 06.23,+34 58 46.2,2.1,Yes,2.8,True,https://www.swift.ac.uk/xrt_curves/00770528/
+768939,00768939,GRB170822A,06 17 32.86,+55 00 15.6,2.0,Yes,3.8,True,https://www.swift.ac.uk/xrt_curves/00768939/
+767563,00767563,GRB170813A,13 24 13.70,-05 29 26.5,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00767563/
+767284,00767284,BAT_Trigger_767284,12 31 45.35,+03 39 37.0,2.0,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/00767284/
+766194,00766194,GRB170804A,00 25 34.25,-64 47 02.9,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00766194/
+766161,00766161,GRB170804A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00766161/
+766081,00766081,GRB170803A,11 39 44.09,-16 18 36.3,2.0,Yes,2.7,True,https://www.swift.ac.uk/xrt_curves/00766081/
+765130,00765130,GRB170728B,15 51 55.35,+70 07 21.7,2.0,Yes,2.8,True,https://www.swift.ac.uk/xrt_curves/00765130/
+765081,00765081,BAT_Trigger_765081,18 17 23.17,-16 43 00.4,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00765081/
+765008,00765008,GRB170728A,03 55 33.23,+12 10 58.9,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00765008/
+763539,00763539,BAT_Trigger_763539,,,,,,False,https://www.swift.ac.uk/xrt_curves/00763539/
+761622,00761622,GRB170711A,03 03 12.33,+47 50 55.9,2.0,Yes,4.5,True,https://www.swift.ac.uk/xrt_curves/00761622/
+761119,00761119,GRB170710A,15 27 16.77,-38 29 06.6,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00761119/
+760064,00760064,GRB170705A,12 46 49.02,+18 18 26.5,2.1,Yes,2.9,True,https://www.swift.ac.uk/xrt_curves/00760064/
+759159,00759159,GRB170629A,08 39 56.77,-46 34 17.6,4.7,No,,True,https://www.swift.ac.uk/xrt_curves/00759159/
+758766,00758766,GRB170626A,11 01 34.46,+56 28 35.8,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00758766/
+758168,00758168,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00758168/
+758005,00758005,BAT_Trigger_758005,,,,,,False,https://www.swift.ac.uk/xrt_curves/00758005/
+756953,00756953,BAT_Trigger_756953,,,,,,False,https://www.swift.ac.uk/xrt_curves/00756953/
+756284,00756284,GRB170607A,00 29 27.90,+09 14 36.8,2.0,Yes,4.1,True,https://www.swift.ac.uk/xrt_curves/00756284/
+755873,00755873,GRB170604B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00755873/
+755354,00755354,GRB170531B,19 07 32.01,-16 25 07.5,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00755354/
+755343,00755343,GRB170531A,08 05 00.57,-14 01 21.8,3.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00755343/
+754549,00754549,GRB170526A,00 18 49.79,+01 16 38.5,4.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/00754549/
+754322,00754322,GRB170524A,21 17 56.86,+48 36 24.1,4.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00754322/
+753445,00753445,GRB170519A,10 53 42.52,+25 22 28.1,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00753445/
+753110,00753110,GRB170516A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00753110/
+753085,00753085,GRB170516A,16 47 10.00,-45 52 16.8,2.3,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00753085/
+752193,00752193,BAT_Trigger_752193,,,,,,False,https://www.swift.ac.uk/xrt_curves/00752193/
+750337,00750337,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00750337/
+750298,00750298,GRB170428A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00750298/
+750096,00750096,BAT_Trigger_750096,,,,,,False,https://www.swift.ac.uk/xrt_curves/00750096/
+750044,00750044,BAT_Trigger_750044,,,,,,False,https://www.swift.ac.uk/xrt_curves/00750044/
+748898,00748898,GRB170419A,05 19 25.11,-21 25 25.5,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00748898/
+748858,00748858,GRB170419A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00748858/
+745966,00745966,4U 1850-03,18 48 16.71,-02 25 28.5,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00745966/
+745797,00745797,GRB170405A,14 39 18.73,-25 14 36.9,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00745797/
+745090,00745090,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00745090/
+745022,00745022,SAX J1806.5-221,18 06 31.89,-22 14 20.4,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00745022/
+744791,00744791,GRB170331A,21 35 10.08,-24 23 08.9,2.1,Yes,4.7,True,https://www.swift.ac.uk/xrt_curves/00744791/
+744773,00744773,GRB170330A,18 53 19.39,-13 25 51.7,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00744773/
+743086,00743086,GRB170318B,18 57 13.49,+06 17 57.9,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00743086/
+743065,00743065,GRB170318A,20 22 40.03,+28 24 23.7,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00743065/
+742866,00742866,GRB170317A,06 12 14.68,+50 29 33.4,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/00742866/
+741965,00741965,GRB170311A,18 42 21.45,-30 02 44.1,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00741965/
+741220,00741220,GRB170306A,17 32 16.53,-44 44 53.0,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00741220/
+738728,00738728,BAT_Trigger_738728,,,,,,False,https://www.swift.ac.uk/xrt_curves/00738728/
+737463,00737463,GRB170208B,08 28 34.52,-09 01 48.6,2.0,Yes,2.8,True,https://www.swift.ac.uk/xrt_curves/00737463/
+737438,00737438,GRB170208A,11 06 15.58,-46 46 04.7,2.0,Yes,4.6,True,https://www.swift.ac.uk/xrt_curves/00737438/
+737125,00737125,GRB170206B,18 07 04.98,+11 11 39.8,2.2,Yes,5.0,True,https://www.swift.ac.uk/xrt_curves/00737125/
+736843,00736843,GRB170205A,17 28 40.68,-00 03 45.3,2.2,Yes,3.4,True,https://www.swift.ac.uk/xrt_curves/00736843/
+736407,00736407,GRB170202A,10 10 03.52,+05 00 44.6,3.5,No,4.8,True,https://www.swift.ac.uk/xrt_curves/00736407/
+735331,00735331,GRB170127B,01 19 54.44,-30 21 29.7,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00735331/
+735326,00735326,GRB170127A,11 37 26.41,-45 50 08.7,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00735326/
+735188,00735188,GRB170126A,17 34 31.87,-64 45 38.0,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00735188/
+732526,00732526,GRB170113A,04 06 56.09,-71 56 33.3,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00732526/
+732188,00732188,GRB170112A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00732188/
+731887,00731887,GRB170111A,01 22 47.48,-32 33 55.1,2.1,Yes,3.2,True,https://www.swift.ac.uk/xrt_curves/00731887/
+730874,00730874,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00730874/
+730513,00730513,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00730513/
+729600,00729600,BAT_Trigger_729600,,,,,,False,https://www.swift.ac.uk/xrt_curves/00729600/
+727610,00727610,GRB161220A,23 23 23.50,-47 29 51.6,3.6,No,4.2,True,https://www.swift.ac.uk/xrt_curves/00727610/
+727541,00727541,GRB161219B,06 06 51.32,-26 47 30.6,2.0,Yes,3.4,True,https://www.swift.ac.uk/xrt_curves/00727541/
+727422,00727422,BAT_Trigger_727422,,,,,,False,https://www.swift.ac.uk/xrt_curves/00727422/
+727167,00727167,GRB161217A,10 02 36.31,+52 21 33.1,2.1,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/00727167/
+726885,00726885,GRB161214B,00 15 24.23,+07 21 08.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00726885/
+725983,00725983,BAT_Trigger_725983,,,,,,False,https://www.swift.ac.uk/xrt_curves/00725983/
+725626,00725626,Non-burst,19 57 58.00,+35 09 34.7,3.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00725626/
+725036,00725036,GRB161202A,23 47 36.74,+19 38 51.7,2.4,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00725036/
+724438,00724438,GRB161129A,21 04 54.93,+32 08 08.4,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00724438/
+723365,00723365,Non-burst,19 58 02.07,+35 09 06.0,3.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00723365/
+723124,00723124,GRB161121A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00723124/
+722681,00722681,GRB161117C,,,,,,False,https://www.swift.ac.uk/xrt_curves/00722681/
+722642,00722642,GRB161117B,19 55 17.98,-67 42 10.6,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00722642/
+722604,00722604,GRB161117A,21 28 12.66,-29 36 50.6,2.0,Yes,3.0,True,https://www.swift.ac.uk/xrt_curves/00722604/
+722063,00722063,GRB161113A,11 59 10.45,-05 18 30.3,3.8,No,4.1,True,https://www.swift.ac.uk/xrt_curves/00722063/
+721234,00721234,GRB161108A,12 03 09.02,+24 52 04.7,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00721234/
+720697,00720697,GRB161105A,08 00 44.21,-44 46 30.0,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00720697/
+720568,00720568,GRB161104A,05 11 34.17,-51 27 32.3,4.5,No,,True,https://www.swift.ac.uk/xrt_curves/00720568/
+718919,00718919,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00718919/
+718655,00718655,GRB161022A,08 36 00.40,+54 20 55.0,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00718655/
+717500,00717500,GRB161014A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00717500/
+716876,00716876,GRB161011A,16 22 54.85,+08 18 40.6,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00716876/
+716127,00716127,GRB161007A,06 53 38.21,+23 18 24.6,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00716127/
+715246,00715246,GRB161004B,07 28 36.34,-39 53 51.5,2.0,Yes,2.3,True,https://www.swift.ac.uk/xrt_curves/00715246/
+715084,00715084,GRB161004A,17 32 36.55,-00 57 00.7,2.0,Yes,4.0,True,https://www.swift.ac.uk/xrt_curves/00715084/
+714404,00714404,GRB161001A,04 47 40.66,-57 15 37.3,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00714404/
+713782,00713782,GRB160927A,17 04 58.27,+17 19 53.7,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00713782/
+712505,00712505,GRB160917A,19 42 40.33,+46 24 11.6,4.2,No,,True,https://www.swift.ac.uk/xrt_curves/00712505/
+711914,00711914,GRB160912A,20 05 59.63,+57 33 54.8,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00711914/
+710022,00710022,BAT_Trigger_710022,,,,,,False,https://www.swift.ac.uk/xrt_curves/00710022/
+709907,00709907,GRB160826A,12 12 27.18,-67 39 49.7,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00709907/
+709765,00709765,GRB160824A,05 20 21.04,+40 01 43.0,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00709765/
+709357,00709357,GRB160821B,18 39 54.71,+62 23 31.3,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00709357/
+708598,00708598,GRB160815A,19 14 09.09,+84 18 49.8,2.0,Yes,2.4,True,https://www.swift.ac.uk/xrt_curves/00708598/
+707545,00707545,BAT_Trigger_707545,18 48 16.95,-02 25 24.9,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00707545/
+707517,00707517,GRB160806A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00707517/
+706871,00706871,GRB160801A,14 11 03.05,+13 29 20.8,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00706871/
+706396,00706396,BAT_Trigger_706396,11 19 14.23,-61 27 47.9,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00706396/
+704572,00704572,GRB160716A,12 41 44.72,-61 21 04.1,2.6,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00704572/
+704444,00704444,BAT_Trigger_704444,,,,,,False,https://www.swift.ac.uk/xrt_curves/00704444/
+704327,00704327,GRB160714B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00704327/
+704310,00704310,GRB160714A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00704310/
+704155,00704155,GRB160712A,20 16 38.43,-26 57 29.4,2.1,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00704155/
+703176,00703176,GRB160705A,11 12 26.25,+46 42 03.3,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00703176/
+702473,00702473,BAT_Trigger_702473,,,,,,False,https://www.swift.ac.uk/xrt_curves/00702473/
+702252,00702252,GRB160630A,13 13 02.05,-56 02 31.3,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00702252/
+701668,00701668,BAT_Trigger_701668,12 25 46.98,+12 39 40.3,3.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00701668/
+701590,00701590,BAT_Trigger_701590,19 34 55.32,+21 53 45.1,3.6,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00701590/
+701503,00701503,GRB160625A,11 47 39.40,-65 08 37.0,5.8,No,,True,https://www.swift.ac.uk/xrt_curves/00701503/
+701454,00701454,BAT_Trigger_701454,19 58 10.14,+35 14 57.3,4.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00701454/
+701288,00701288,GRB160624A,22 00 46.27,+29 38 39.4,2.3,Yes,4.2,True,https://www.swift.ac.uk/xrt_curves/00701288/
+701182,00701182,SGR 1935+2154,19 34 55.73,+21 53 47.5,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00701182/
+690598,00690598,GRB160611A,10 57 41.74,-70 23 34.0,3.5,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00690598/
+690226,00690226,BAT_Trigger_690226,17 45 40.73,-29 00 41.5,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00690226/
+690197,00690197,BAT_Trigger_690197,17 45 40.55,-29 00 37.9,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00690197/
+689956,00689956,BAT_Trigger_689956,17 45 40.52,-29 00 40.1,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00689956/
+689597,00689597,GRB160607A,00 54 39.93,-04 56 55.0,3.6,No,2.8,True,https://www.swift.ac.uk/xrt_curves/00689597/
+689353,00689353,BAT_Trigger_689353,17 45 40.62,-29 00 32.7,4.1,No,,True,https://www.swift.ac.uk/xrt_curves/00689353/
+688452,00688452,GRB160601A,15 39 44.43,+64 32 24.2,3.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00688452/
+687522,00687522,GRB160525B,09 57 32.28,+51 12 23.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00687522/
+687124,00687124,SGR 1935+2154,19 34 55.66,+21 53 50.2,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00687124/
+687123,00687123,SGR 1935+2154,19 34 55.59,+21 53 44.9,2.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/00687123/
+686842,00686842,SGR 1935+2154,,,,,,False,https://www.swift.ac.uk/xrt_curves/00686842/
+686761,00686761,BAT_Trigger_686761,19 34 55.44,+21 53 40.5,5.0,No,,True,https://www.swift.ac.uk/xrt_curves/00686761/
+686443,00686443,BAT_Trigger_686443,,,,,,False,https://www.swift.ac.uk/xrt_curves/00686443/
+685245,00685245,GRB160506A,17 43 23.70,-46 08 01.6,2.0,Yes,2.1,True,https://www.swift.ac.uk/xrt_curves/00685245/
+685124,00685124,GRB160504A,11 20 17.19,+56 00 05.8,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00685124/
+684679,00684679,GRB160501A,19 05 32.02,-17 14 26.6,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00684679/
+684098,00684098,GRB160425A,18 41 18.56,-54 21 36.2,2.0,Yes,2.5,True,https://www.swift.ac.uk/xrt_curves/00684098/
+683906,00683906,GRB160424A,21 17 56.41,-60 24 53.3,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00683906/
+683076,00683076,GRB160417A,08 01 01.60,+07 39 45.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00683076/
+682522,00682522,GRB160412A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00682522/
+682339,00682339,GRB160411A,23 17 25.32,-40 14 32.9,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/00682339/
+682269,00682269,GRB160410A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00682269/
+682059,00682059,GRB160408A,08 10 29.38,+71 07 40.9,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00682059/
+680655,00680655,GRB160327A,09 46 48.43,+54 00 46.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00680655/
+680436,00680436,GRB160325A,01 02 36.56,-72 41 47.7,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00680436/
+680017,00680017,GRB160321A,06 37 40.60,+05 44 51.3,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00680017/
+679432,00679432,GRB160316A,07 55 42.48,-29 33 48.8,2.0,Yes,2.2,True,https://www.swift.ac.uk/xrt_curves/00679432/
+679120,00679120,GRB160314A,07 31 09.50,+16 59 56.7,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00679120/
+678929,00678929,GRB160313A,12 15 11.25,+57 17 02.5,2.1,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00678929/
+678197,00678197,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00678197/
+677890,00677890,BAT_Trigger_677890,18 39 38.58,+05 03 09.2,4.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00677890/
+677582,00677582,IGR17091-3624,17 09 07.60,-36 24 23.2,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00677582/
+677495,00677495,GRB160303A,11 14 48.17,+22 44 33.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00677495/
+676595,00676595,GRB160228A,07 09 15.90,+26 55 54.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00676595/
+676423,00676423,GRB160227A,12 59 13.41,+78 40 46.2,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00676423/
+675998,00675998,GRB160225A,10 56 54.68,+53 40 10.5,3.5,No,2.7,True,https://www.swift.ac.uk/xrt_curves/00675998/
+674670,00674670,GRB160220A,15 47 48.42,-18 33 53.5,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00674670/
+673978,00673978,GRB160216A,20 46 44.61,-71 32 52.7,3.9,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00673978/
+672897,00672897,BAT_Trigger_672897,,,,,,False,https://www.swift.ac.uk/xrt_curves/00672897/
+672525,00672525,GRB160203A,10 47 48.27,-24 47 19.2,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00672525/
+671828,00671828,GRB160127A,15 03 55.80,+00 04 23.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00671828/
+671447,00671447,GRB160123A,10 01 15.02,-33 46 31.1,2.1,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00671447/
+671231,00671231,GRB160121A,07 16 21.23,-23 35 32.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00671231/
+671014,00671014,GRB160119A,14 07 41.14,+20 27 42.8,3.6,No,4.2,True,https://www.swift.ac.uk/xrt_curves/00671014/
+670800,00670800,GRB160117B,08 48 46.78,-16 22 01.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00670800/
+669319,00669319,GRB160104A,05 07 11.10,+11 19 25.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00669319/
+668879,00668879,BAT_Trigger_668879,,,,,,False,https://www.swift.ac.uk/xrt_curves/00668879/
+668877,00668877,BAT_Trigger_668877,20 24 03.73,+33 51 59.6,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00668877/
+668689,00668689,GRB151229A,21 57 28.85,-20 43 56.9,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00668689/
+668641,00668641,GRB151228B,22 57 41.92,+08 04 51.7,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00668641/
+668097,00668097,V404 Cyg,20 24 04.16,+33 51 59.7,4.6,No,,True,https://www.swift.ac.uk/xrt_curves/00668097/
+667392,00667392,GRB151215A,06 14 20.19,+35 30 58.7,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00667392/
+666931,00666931,GRB151210A,04 20 28.26,-71 15 03.2,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00666931/
+666378,00666378,GRB151205B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00666378/
+666352,00666352,GRB151205A,15 17 09.36,+35 44 38.4,2.0,Yes,2.8,True,https://www.swift.ac.uk/xrt_curves/00666352/
+665268,00665268,GRB151127A,01 17 54.31,-82 46 16.0,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00665268/
+664078,00664078,GRB151118A,03 48 41.08,+65 54 04.1,2.1,Yes,2.5,True,https://www.swift.ac.uk/xrt_curves/00664078/
+663490,00663490,GRB151114A,08 03 46.40,-61 01 39.9,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00663490/
+663179,00663179,GRB151112A,00 08 13.60,-61 39 45.3,3.6,No,4.0,True,https://www.swift.ac.uk/xrt_curves/00663179/
+663164,00663164,BAT_Trigger_663164,,,,,,False,https://www.swift.ac.uk/xrt_curves/00663164/
+663074,00663074,GRB151111A,03 47 22.84,-44 09 41.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00663074/
+662330,00662330,GRB151031A,05 32 47.19,-39 07 18.6,2.1,Yes,4.1,True,https://www.swift.ac.uk/xrt_curves/00662330/
+662086,00662086,BAT_Trigger_662086,02 34 06.72,-35 23 07.7,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00662086/
+661869,00661869,GRB151027B,05 04 52.67,-06 27 00.4,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/00661869/
+661253,00661253,GRB151023A,18 03 56.31,-08 18 59.8,2.7,Yes,2.7,True,https://www.swift.ac.uk/xrt_curves/00661253/
+661036,00661036,GRB151022A,23 16 47.25,+55 48 42.9,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00661036/
+660671,00660671,GRB151021A,22 30 35.09,-33 11 56.7,3.6,No,3.7,True,https://www.swift.ac.uk/xrt_curves/00660671/
+658045,00658045,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00658045/
+657750,00657750,GRB151006A,09 49 42.25,+70 30 09.7,2.3,Yes,2.2,True,https://www.swift.ac.uk/xrt_curves/00657750/
+657564,00657564,GRB151004A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00657564/
+657321,00657321,GRB151001B,22 27 21.23,+64 41 36.4,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00657321/
+657286,00657286,GRB151001A,15 34 54.94,+10 58 00.8,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00657286/
+656604,00656604,GRB150925A,15 10 08.14,-19 37 57.1,2.1,Yes,4.5,True,https://www.swift.ac.uk/xrt_curves/00656604/
+655721,00655721,GRB150915A,21 18 38.13,-34 54 47.3,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00655721/
+655262,00655262,GRB150911A,04 29 44.16,+05 44 08.0,2.0,Yes,4.2,True,https://www.swift.ac.uk/xrt_curves/00655262/
+654803,00654803,GRB150907B,17 01 13.74,-63 47 08.1,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00654803/
+653978,00653978,GRB150831B,18 04 09.44,-27 15 32.8,3.7,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00653978/
+653838,00653838,GRB150831A,14 44 05.83,-25 38 08.5,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00653838/
+652847,00652847,GRB150821A,22 47 39.13,-57 53 36.9,3.5,No,2.5,True,https://www.swift.ac.uk/xrt_curves/00652847/
+652824,00652824,BAT_Trigger_652824,,,,,,False,https://www.swift.ac.uk/xrt_curves/00652824/
+652643,00652643,GRB150819A,02 49 20.03,+09 48 26.9,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00652643/
+652334,00652334,GRB150817A,16 38 31.92,-12 03 10.8,2.4,Yes,4.0,True,https://www.swift.ac.uk/xrt_curves/00652334/
+652046,00652046,BAT_Trigger_652046,,,,,,False,https://www.swift.ac.uk/xrt_curves/00652046/
+651882,00651882,GRB150811A,19 25 21.40,-15 25 31.3,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00651882/
+650977,00650977,GRB150801B,05 31 51.88,-05 23 20.0,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00650977/
+650617,00650617,GRB150728A,19 28 54.43,+33 54 59.0,3.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00650617/
+650141,00650141,GRB150724A,06 30 14.41,-19 09 52.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00650141/
+649916,00649916,GRB150722A,14 33 06.67,-35 11 47.0,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00649916/
+649706,00649706,GRB150720A,07 58 19.45,-28 15 44.2,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00649706/
+649113,00649113,BAT_Trigger_649113,18 41 19.39,-04 56 10.3,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00649113/
+648601,00648601,GRB150711A,14 46 30.42,-35 27 23.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00648601/
+648437,00648437,GRB150710A,12 57 53.02,+14 19 05.4,3.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00648437/
+648422,00648422,BAT_Trigger_648422,,,,,,False,https://www.swift.ac.uk/xrt_curves/00648422/
+647642,00647642,BAT_Trigger_647642,,,,,,False,https://www.swift.ac.uk/xrt_curves/00647642/
+646786,00646786,GRB150626B,12 30 31.87,+66 46 19.9,2.1,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00646786/
+646603,00646603,GRB150626A,07 25 20.74,-37 46 49.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00646603/
+644259,00644259,GRB150616A,20 58 52.02,-53 23 34.7,3.5,No,2.2,True,https://www.swift.ac.uk/xrt_curves/00644259/
+643949,00643949,BAT_Trigger_643949,20 24 03.97,+33 52 01.8,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00643949/
+643833,00643833,GRB150615A,07 10 15.45,-22 26 58.8,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00643833/
+643078,00643078,BAT_Trigger_643078,,,,,,False,https://www.swift.ac.uk/xrt_curves/00643078/
+642620,00642620,GRB150607A,09 19 56.85,+68 26 06.9,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00642620/
+642453,00642453,GRB150604A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00642453/
+642018,00642018,GRB150530A,21 50 02.61,+57 30 58.9,3.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00642018/
+641698,00641698,GRB150527A,19 15 50.39,+04 12 04.7,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00641698/
+641332,00641332,BAT_Trigger_641332,,,,,,False,https://www.swift.ac.uk/xrt_curves/00641332/
+639278,00639278,GRB150428B,19 30 33.07,+04 07 31.4,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00639278/
+639275,00639275,BAT_Trigger_639275,12 34 09.33,+06 57 07.6,3.7,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00639275/
+639199,00639199,BAT_Trigger_639199,16 41 51.05,-45 32 27.9,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00639199/
+638946,00638946,GRB150424A,10 09 13.40,-26 37 51.8,2.1,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00638946/
+638808,00638808,GRB150423A,14 46 18.97,+12 17 01.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00638808/
+638589,00638589,BAT_Trigger_638589,,,,,,False,https://www.swift.ac.uk/xrt_curves/00638589/
+638217,00638217,BAT_Trigger_638217,,,,,,False,https://www.swift.ac.uk/xrt_curves/00638217/
+637807,00637807,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00637807/
+636005,00636005,GRB150323C,12 50 28.05,+50 11 30.4,2.1,Yes,4.0,True,https://www.swift.ac.uk/xrt_curves/00636005/
+635887,00635887,GRB150323A,08 32 42.96,+45 27 49.6,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00635887/
+635796,00635796,GRB150322F,,,,,,False,https://www.swift.ac.uk/xrt_curves/00635796/
+635792,00635792,GRB150322C,,,,,,False,https://www.swift.ac.uk/xrt_curves/00635792/
+634200,00634200,GRB150309A,18 28 22.13,+86 25 46.6,3.6,No,3.4,True,https://www.swift.ac.uk/xrt_curves/00634200/
+633180,00633180,GRB150301B,05 56 40.03,-57 58 10.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00633180/
+633173,00633173,BAT_Trigger_633173,,,,,,False,https://www.swift.ac.uk/xrt_curves/00633173/
+633105,00633105,BAT_Trigger_633105,,,,,,False,https://www.swift.ac.uk/xrt_curves/00633105/
+632180,00632180,GRB150222A,13 15 08.82,-12 09 06.3,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00632180/
+632158,00632158,BAT_Trigger_632158,19 34 55.57,+21 53 50.4,2.3,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00632158/
+630876,00630876,GRB150212A,19 01 55.27,+47 21 57.6,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00630876/
+630714,00630714,GRB150211A,16 59 26.04,+55 23 33.1,3.5,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00630714/
+629693,00629693,GRB150204A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00629693/
+629578,00629578,GRB150203A,06 33 35.81,+06 57 11.5,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00629578/
+629547,00629547,GRB150202A,02 36 54.59,-33 08 54.2,2.0,Yes,3.0,True,https://www.swift.ac.uk/xrt_curves/00629547/
+628458,00628458,BAT_Trigger_628458,,,,,,False,https://www.swift.ac.uk/xrt_curves/00628458/
+627170,00627170,GRB150120B,02 37 10.25,+08 04 41.6,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00627170/
+627137,00627137,GRB150120A,00 41 16.49,+33 59 39.7,2.2,Yes,3.3,True,https://www.swift.ac.uk/xrt_curves/00627137/
+624606,00624606,GRB150110B,19 17 30.03,+32 31 24.3,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00624606/
+623368,00623368,GRB150103A,08 46 39.92,-48 53 10.6,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00623368/
+623158,00623158,GRB150101A,20 50 24.91,+36 43 60.0,3.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00623158/
+622476,00622476,GRB141225A,09 15 06.77,+33 47 30.7,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00622476/
+622006,00622006,GRB141221A,13 13 08.74,+08 12 18.2,2.2,Yes,2.7,True,https://www.swift.ac.uk/xrt_curves/00622006/
+621915,00621915,GRB141220A,13 00 16.25,+32 07 54.0,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00621915/
+621229,00621229,GRB141212A,02 36 29.91,+18 08 46.4,3.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00621229/
+620090,00620090,GRB141130A,14 51 17.30,+47 19 12.0,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00620090/
+618673,00618673,GRB141115A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00618673/
+618402,00618402,BAT_Trigger_618402,,,,,,False,https://www.swift.ac.uk/xrt_curves/00618402/
+618134,00618134,BAT_Trigger_618134,09 02 28.65,-40 24 15.2,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00618134/
+618032,00618032,GRB141109B,14 49 13.00,+73 07 52.1,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00618032/
+617149,00617149,GRB141031B,23 47 37.24,+41 21 07.7,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00617149/
+617110,00617110,GRB141031A,08 34 25.95,-59 10 06.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00617110/
+616061,00616061,GRB141022A,16 07 28.70,-72 07 31.4,2.1,Yes,3.0,True,https://www.swift.ac.uk/xrt_curves/00616061/
+615873,00615873,GRB141020A,14 59 59.26,+55 18 49.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00615873/
+615399,00615399,GRB141015A,05 50 04.19,+18 19 46.7,4.0,No,,True,https://www.swift.ac.uk/xrt_curves/00615399/
+614415,00614415,GRB141005A,19 24 22.28,+36 05 41.6,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00614415/
+614390,00614390,GRB141004A,05 06 56.03,+12 49 11.2,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00614390/
+614193,00614193,GRB141002A,10 46 28.15,-60 33 51.6,4.1,No,,True,https://www.swift.ac.uk/xrt_curves/00614193/
+614094,00614094,GRB140930B,00 25 23.46,+24 17 41.3,2.0,Yes,4.6,True,https://www.swift.ac.uk/xrt_curves/00614094/
+613775,00613775,GRB140927A,19 27 10.12,-65 23 34.7,3.6,No,3.6,True,https://www.swift.ac.uk/xrt_curves/00613775/
+613516,00613516,BAT_Trigger_613516,09 01 22.82,-40 27 47.8,5.0,No,,True,https://www.swift.ac.uk/xrt_curves/00613516/
+613160,00613160,GRB140919A,14 46 08.93,-32 10 34.0,3.5,No,4.0,True,https://www.swift.ac.uk/xrt_curves/00613160/
+612804,00612804,GRB140916A,02 41 35.98,-39 41 11.4,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00612804/
+611933,00611933,GRB140907A,03 12 35.06,+46 36 18.2,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00611933/
+611599,00611599,BAT_Trigger_611599,,,,,,False,https://www.swift.ac.uk/xrt_curves/00611599/
+610501,00610501,GRB140824A,13 46 28.08,+33 17 36.3,2.0,Yes,3.5,True,https://www.swift.ac.uk/xrt_curves/00610501/
+609885,00609885,GRB140818B,18 04 32.47,-01 23 12.4,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00609885/
+609736,00609736,GRB140817A,08 29 03.30,+58 11 23.0,2.1,Yes,2.2,True,https://www.swift.ac.uk/xrt_curves/00609736/
+609694,00609694,BAT_Trigger_609694,,,,,,False,https://www.swift.ac.uk/xrt_curves/00609694/
+609139,00609139,GRB140810A,18 48 16.86,-02 25 25.1,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00609139/
+607742,00607742,GRB140730A,03 45 35.56,-66 32 44.0,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00607742/
+607506,00607506,BAT_Trigger_607506,,,,,,False,https://www.swift.ac.uk/xrt_curves/00607506/
+607399,00607399,BAT_Trigger_607399,18 08 39.31,-20 24 41.6,2.5,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00607399/
+605612,00605612,GRB140719A,11 26 24.14,-50 08 05.7,2.3,Yes,4.0,True,https://www.swift.ac.uk/xrt_curves/00605612/
+604232,00604232,GRB140713A,18 44 25.39,+59 38 00.8,2.0,Yes,2.2,True,https://www.swift.ac.uk/xrt_curves/00604232/
+604111,00604111,BAT_Trigger_604111,,,,,,False,https://www.swift.ac.uk/xrt_curves/00604111/
+603954,00603954,GRB140710A,02 44 16.27,+35 29 57.9,2.2,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00603954/
+603866,00603866,GRB140709B,09 44 13.10,+63 31 46.8,2.0,Yes,3.0,True,https://www.swift.ac.uk/xrt_curves/00603866/
+603810,00603810,GRB140709A,20 18 39.37,+51 13 22.8,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00603810/
+603587,00603587,GRB140706A,03 17 10.78,-38 03 05.8,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00603587/
+603488,00603488,GRB140705A,19 34 55.68,+21 53 49.4,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00603488/
+602884,00602884,GRB140629A,16 35 54.42,+41 52 37.1,2.0,Yes,2.8,True,https://www.swift.ac.uk/xrt_curves/00602884/
+602803,00602803,GRB140628A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00602803/
+602668,00602668,BAT_Trigger_602668,,,,,,False,https://www.swift.ac.uk/xrt_curves/00602668/
+602604,00602604,GRB140626A,05 09 29.73,-82 37 55.8,4.0,No,,True,https://www.swift.ac.uk/xrt_curves/00602604/
+602278,00602278,GRB140622A,21 08 41.59,-14 25 09.7,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00602278/
+602080,00602080,GRB140619A,01 48 25.88,-39 15 33.6,3.7,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00602080/
+601662,00601662,GRB140614B,21 30 31.51,+14 55 47.6,2.0,Yes,2.4,True,https://www.swift.ac.uk/xrt_curves/00601662/
+601646,00601646,GRB140614A,15 24 41.29,-79 07 44.5,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00601646/
+601259,00601259,GRB140610A,19 05 04.37,+03 54 26.7,4.1,No,,True,https://www.swift.ac.uk/xrt_curves/00601259/
+600114,00600114,BAT_Trigger_600114,00 41 43.11,+41 34 24.2,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00600114/
+599860,00599860,BAT_Trigger_599860,03 33 36.41,-36 08 22.3,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00599860/
+599287,00599287,GRB140518A,15 09 00.50,+42 25 05.7,2.0,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/00599287/
+599188,00599188,GRB140516A,16 51 57.37,+39 57 41.5,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00599188/
+599037,00599037,GRB140515A,12 24 15.45,+15 06 16.1,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00599037/
+598819,00598819,GRB140512A,19 17 28.62,-15 05 41.9,3.6,No,3.9,True,https://www.swift.ac.uk/xrt_curves/00598819/
+598497,00598497,GRB140509A,03 06 22.86,-62 38 21.9,2.0,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/00598497/
+598284,00598284,GRB 140506A,18 27 06.33,-55 38 10.6,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00598284/
+597860,00597860,GRB140502B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00597860/
+597841,00597841,GRB140502A,21 16 45.14,+48 58 12.1,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00597841/
+597722,00597722,GRB140430A,06 51 44.46,+23 01 22.7,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/00597722/
+597570,00597570,SGR 1806-20,18 08 39.40,-20 24 43.8,4.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00597570/
+597519,00597519,BAT_Trigger_597519,,,,,,False,https://www.swift.ac.uk/xrt_curves/00597519/
+596901,00596901,GRB140423A,13 09 09.47,+49 50 31.9,3.5,No,3.5,True,https://www.swift.ac.uk/xrt_curves/00596901/
+596641,00596641,GRB140421A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00596641/
+596426,00596426,GRB140419A,08 27 57.16,+46 14 23.5,2.3,Yes,3.7,True,https://www.swift.ac.uk/xrt_curves/00596426/
+595608,00595608,GRB140412A,09 39 53.42,-65 49 18.9,2.4,Yes,2.7,True,https://www.swift.ac.uk/xrt_curves/00595608/
+595345,00595345,BAT_Trigger_595345,,,,,,False,https://www.swift.ac.uk/xrt_curves/00595345/
+595162,00595162,BAT_Trigger_595162,,,,,,False,https://www.swift.ac.uk/xrt_curves/00595162/
+595141,00595141,GRB140408A,19 22 51.91,-12 35 44.7,2.4,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00595141/
+594286,00594286,BAT_Trigger_594286,,,,,,False,https://www.swift.ac.uk/xrt_curves/00594286/
+594081,00594081,GRB140331A,08 59 27.43,+02 43 02.0,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00594081/
+593433,00593433,BAT_Trigger_593433,,,,,,False,https://www.swift.ac.uk/xrt_curves/00593433/
+592916,00592916,GRB140323A,23 47 50.15,-79 54 17.6,2.1,Yes,2.3,True,https://www.swift.ac.uk/xrt_curves/00592916/
+592558,00592558,BAT_Trigger_592558,,,,,,False,https://www.swift.ac.uk/xrt_curves/00592558/
+592544,00592544,BAT_Trigger_592544,,,,,,False,https://www.swift.ac.uk/xrt_curves/00592544/
+591392,00591392,GRB140311B,16 49 17.81,+52 43 26.4,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00591392/
+590503,00590503,BAT_Trigger_590503,,,,,,False,https://www.swift.ac.uk/xrt_curves/00590503/
+590206,00590206,GRB140304A,02 02 33.95,+33 28 28.7,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00590206/
+589685,00589685,GRB140302A,16 55 26.23,-12 52 43.7,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00589685/
+589590,00589590,GRB140301A,04 38 14.14,-34 15 24.9,3.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00589590/
+589505,00589505,BAT_Trigger_589505,17 44 33.73,-28 44 54.3,4.5,No,,True,https://www.swift.ac.uk/xrt_curves/00589505/
+586680,00586680,GRB140215A,06 56 35.89,+41 47 10.6,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00586680/
+586569,00586569,GRB140213A,07 00 36.49,-73 08 09.6,3.5,No,3.6,True,https://www.swift.ac.uk/xrt_curves/00586569/
+586363,00586363,BAT_Trigger_586363,17 44 33.54,-28 44 27.0,4.6,No,,True,https://www.swift.ac.uk/xrt_curves/00586363/
+585834,00585834,GRB140206A,09 41 20.25,+66 45 38.7,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00585834/
+585149,00585149,GRB140129B,21 47 01.75,+26 12 22.3,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00585149/
+585128,00585128,GRB140129A,02 31 33.80,-01 35 44.5,2.0,Yes,4.7,True,https://www.swift.ac.uk/xrt_curves/00585128/
+584155,00584155,BAT_Trigger_584155,14 21 37.31,-61 36 23.7,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00584155/
+583861,00583861,GRB140114A,12 34 05.21,+27 57 04.4,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00583861/
+583338,00583338,GRB140108A,21 40 27.04,+58 44 40.7,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00583338/
+583105,00583105,BAT_Trigger_583105,19 49 35.58,+30 12 30.8,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00583105/
+582184,00582184,GRB131227A,04 29 30.74,+28 52 58.7,2.0,Yes,4.1,True,https://www.swift.ac.uk/xrt_curves/00582184/
+581129,00581129,BAT_Trigger_581129,,,,,,False,https://www.swift.ac.uk/xrt_curves/00581129/
+580267,00580267,GRB131205A,08 46 30.45,-60 09 19.9,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00580267/
+579982,00579982,GRB131202A,22 56 12.95,-21 39 45.4,2.2,Yes,4.2,True,https://www.swift.ac.uk/xrt_curves/00579982/
+579683,00579683,GRB131128A,23 41 13.91,+31 18 22.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00579683/
+579571,00579571,GRB131127A,22 10 55.12,+36 36 35.0,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00579571/
+578553,00578553,BAT_Trigger_578553,,,,,,False,https://www.swift.ac.uk/xrt_curves/00578553/
+577968,00577968,GRB131117A,22 09 19.49,-31 45 44.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00577968/
+576738,00576738,GRB131105A,04 43 52.23,-62 59 44.0,2.0,Yes,3.5,True,https://www.swift.ac.uk/xrt_curves/00576738/
+576562,00576562,GRB131103A,23 15 41.16,-44 38 18.2,3.5,No,2.3,True,https://www.swift.ac.uk/xrt_curves/00576562/
+576064,00576064,BAT_Trigger_576064,,,,,,False,https://www.swift.ac.uk/xrt_curves/00576064/
+575905,00575905,GRB131026A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00575905/
+575754,00575754,GRB131024B,09 38 00.76,+44 16 17.6,2.1,Yes,4.5,True,https://www.swift.ac.uk/xrt_curves/00575754/
+575707,00575707,GRB131024A,19 21 55.31,-64 36 09.8,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00575707/
+574935,00574935,GRB131018A,06 33 53.28,-19 53 45.7,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00574935/
+574266,00574266,BAT_Trigger_574266,,,,,,False,https://www.swift.ac.uk/xrt_curves/00574266/
+573667,00573667,BAT_Trigger_573667,19 49 35.69,+30 12 33.8,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00573667/
+573217,00573217,BAT_Trigger_573217,19 49 35.70,+30 12 28.0,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00573217/
+573190,00573190,GRB131004A,19 44 27.19,-02 57 31.0,2.0,Yes,2.8,True,https://www.swift.ac.uk/xrt_curves/00573190/
+572721,00572721,GRB131002A,16 52 51.84,+82 03 13.3,2.0,Yes,4.4,True,https://www.swift.ac.uk/xrt_curves/00572721/
+572308,00572308,GRB130929A,09 00 05.78,-47 33 37.9,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00572308/
+571830,00571830,GRB130925A,02 44 42.47,-26 09 09.3,3.9,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00571830/
+571067,00571067,BAT_Trigger_571067,16 41 51.06,-45 32 27.5,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00571067/
+570465,00570465,GRB130912A,03 10 22.16,+13 59 48.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00570465/
+570402,00570402,IGR J17544-2619,17 54 25.66,-26 19 53.5,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00570402/
+20296,00020296,GRB130904A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00020296/
+568855,00568855,GRB130831B,12 49 40.75,-29 11 00.2,2.1,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00568855/
+568849,00568849,GRB130831A,23 54 29.70,+29 25 42.8,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00568849/
+567163,00567163,GRB130822A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00567163/
+566561,00566561,GRB130816B,11 20 04.07,-57 33 26.1,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00566561/
+566545,00566545,GRB130816A,13 08 33.50,-58 56 42.6,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00566545/
+566228,00566228,GRB130812A,06 09 34.94,-13 17 16.1,2.0,Yes,4.2,True,https://www.swift.ac.uk/xrt_curves/00566228/
+565562,00565562,GRB130806A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00565562/
+565443,00565443,BAT_Trigger_565443,17 45 35.68,-29 01 35.7,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00565443/
+565263,00565263,GRB130803A,14 41 00.81,-02 29 32.3,2.3,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00565263/
+564342,00564342,GRB130727A,22 03 11.75,-65 32 19.1,2.0,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00564342/
+564028,00564028,BAT_Trigger_564028,14 16 57.83,-11 07 44.7,4.4,No,,True,https://www.swift.ac.uk/xrt_curves/00564028/
+563980,00563980,BAT_Trigger_563980,15 20 07.93,+00 37 40.5,4.0,No,,True,https://www.swift.ac.uk/xrt_curves/00563980/
+559642,00559642,IGR J08408-4503,08 40 47.76,-45 03 32.2,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00559642/
+559482,00559482,GRB130701A,23 48 54.62,+36 06 01.2,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00559482/
+559221,00559221,BAT_Trigger_559221,,,,,,False,https://www.swift.ac.uk/xrt_curves/00559221/
+559139,00559139,GRB130627B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00559139/
+559132,00559132,GRB130627A,12 17 40.08,-37 05 10.0,3.6,No,3.4,True,https://www.swift.ac.uk/xrt_curves/00559132/
+559108,00559108,BAT_Trigger_559108,,,,,,False,https://www.swift.ac.uk/xrt_curves/00559108/
+559075,00559075,GRB130626A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00559075/
+558982,00558982,GRB130625A,22 53 07.58,+82 10 26.9,2.2,Yes,4.0,True,https://www.swift.ac.uk/xrt_curves/00558982/
+558631,00558631,BAT_Trigger_558631,,,,,,False,https://www.swift.ac.uk/xrt_curves/00558631/
+558399,00558399,AXP 1E1547.-540,15 50 54.39,-54 18 22.6,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00558399/
+558271,00558271,GRB130615A,18 19 18.90,-68 09 39.8,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00558271/
+557976,00557976,GRB130612A,17 19 10.58,+16 43 13.6,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00557976/
+557910,00557910,BAT_Trigger_557910,,,,,,False,https://www.swift.ac.uk/xrt_curves/00557910/
+557845,00557845,GRB130610A,14 57 40.75,+28 12 26.8,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00557845/
+557828,00557828,GRB130609B,03 35 04.72,-40 10 33.9,3.6,No,2.8,True,https://www.swift.ac.uk/xrt_curves/00557828/
+557782,00557782,GRB130609A,10 10 41.17,+24 08 00.6,3.7,No,4.2,True,https://www.swift.ac.uk/xrt_curves/00557782/
+557771,00557771,GRB130608A,01 38 26.24,+41 30 09.5,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00557771/
+557674,00557674,BAT_Trigger_557674,,,,,,False,https://www.swift.ac.uk/xrt_curves/00557674/
+557589,00557589,GRB130606A,16 37 35.78,+29 47 39.3,3.6,No,4.5,True,https://www.swift.ac.uk/xrt_curves/00557589/
+557466,00557466,BAT_Trigger_557466,,,,,,False,https://www.swift.ac.uk/xrt_curves/00557466/
+557354,00557354,GRB130604A,16 40 45.31,+68 13 32.5,3.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00557354/
+557310,00557310,BAT_Trigger_557310,11 28 48.16,+17 04 18.8,2.7,Yes,2.3,True,https://www.swift.ac.uk/xrt_curves/00557310/
+557274,00557274,GRB130603A,05 47 34.50,+82 54 35.7,3.6,No,3.0,True,https://www.swift.ac.uk/xrt_curves/00557274/
+556930,00556930,GRB130529A,01 37 07.69,-64 08 50.2,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00556930/
+556870,00556870,GRB130528A,09 18 00.77,+87 18 03.8,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00556870/
+556753,00556753,GRB130527A,20 37 06.28,-24 43 28.6,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00556753/
+556533,00556533,BAT_Trigger_556533,,,,,,False,https://www.swift.ac.uk/xrt_curves/00556533/
+555880,00555880,GRB130515A,18 53 45.79,-54 16 45.2,2.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/00555880/
+555821,00555821,GRB130514A,19 45 07.97,-07 58 35.3,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00555821/
+555600,00555600,GRB130511A,13 06 34.83,+18 42 36.0,2.0,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00555600/
+555413,00555413,GRB130508A,20 21 17.22,+34 57 29.9,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00555413/
+555096,00555096,GRB130504A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00555096/
+554996,00554996,GRB130502A,09 14 16.59,-00 07 24.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00554996/
+554635,00554635,GRB130427B,20 59 35.78,-22 32 46.8,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00554635/
+554491,00554491,BAT_Trigger_554491,17 45 40.16,-29 00 31.2,4.3,No,,True,https://www.swift.ac.uk/xrt_curves/00554491/
+554135,00554135,BAT_Trigger_554135,,,,,,False,https://www.swift.ac.uk/xrt_curves/00554135/
+553977,00553977,GRB130420A,13 04 25.55,+59 25 27.9,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00553977/
+553930,00553930,BAT_Trigger_553930,13 34 48.15,+37 10 50.9,5.4,No,,True,https://www.swift.ac.uk/xrt_curves/00553930/
+553132,00553132,GRB130408A,08 57 37.92,-32 21 40.0,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00553132/
+552677,00552677,IGR 16418-4532,16 41 50.59,-45 32 23.6,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00552677/
+552383,00552383,BAT_Trigger_552383,,,,,,False,https://www.swift.ac.uk/xrt_curves/00552383/
+552370,00552370,IGR J18245-2452,18 24 31.86,-24 52 14.2,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00552370/
+552369,00552369,IGR J18245-2452,18 24 32.40,-24 52 11.0,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00552369/
+552336,00552336,BAT_Trigger_552336,18 24 32.33,-24 52 06.8,3.6,No,3.7,True,https://www.swift.ac.uk/xrt_curves/00552336/
+552142,00552142,GRB130328A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00552142/
+552063,00552063,GRB130327A,06 08 09.25,+55 42 52.8,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00552063/
+551126,00551126,GRB130315A,10 30 10.96,-51 47 38.2,4.0,No,,True,https://www.swift.ac.uk/xrt_curves/00551126/
+551030,00551030,BAT_Trigger_551030,,,,,,False,https://www.swift.ac.uk/xrt_curves/00551030/
+550906,00550906,GRB130313A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00550906/
+549841,00549841,BAT_Trigger_549841,18 08 39.33,-20 24 37.5,3.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00549841/
+548276,00548276,GRB130211A,09 50 08.67,-42 20 33.1,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/00548276/
+547918,00547918,GRB130206A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00547918/
+547420,00547420,GRB130131B,11 35 49.29,+15 02 17.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00547420/
+547407,00547407,GRB130131A,11 24 30.38,+48 04 34.5,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00547407/
+546731,00546731,GRB130122A,12 57 08.51,+59 00 53.5,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00546731/
+544784,00544784,GRB130102A,20 45 41.61,+49 49 02.3,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00544784/
+544381,00544381,GRB121229B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00544381/
+544347,00544347,GRB121229A,12 40 24.24,-50 35 38.8,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00544347/
+544027,00544027,GRB121226A,11 14 34.14,-30 24 23.1,2.1,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00544027/
+542441,00542441,GRB121217A,10 14 50.34,-62 21 01.4,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00542441/
+541371,00541371,GRB121212A,11 51 10.18,+78 02 14.7,2.0,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/00541371/
+540964,00540964,GRB121209A,21 47 08.95,-08 14 06.2,2.2,Yes,2.1,True,https://www.swift.ac.uk/xrt_curves/00540964/
+540255,00540255,GRB121202A,17 07 11.29,+23 56 55.7,3.5,No,3.6,True,https://www.swift.ac.uk/xrt_curves/00540255/
+540178,00540178,GRB121201A,00 53 52.23,-42 56 35.7,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00540178/
+539866,00539866,GRB121128A,20 02 23.99,+54 17 58.3,2.0,Yes,4.9,True,https://www.swift.ac.uk/xrt_curves/00539866/
+539563,00539563,GRB121125A,15 14 06.90,+55 18 49.0,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00539563/
+539358,00539358,GRB121123A,20 29 16.20,-11 51 31.5,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00539358/
+538575,00538575,BAT_Trigger_538575,,,,,,False,https://www.swift.ac.uk/xrt_curves/00538575/
+537921,00537921,GRB121108A,05 32 46.56,+54 28 25.7,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00537921/
+537266,00537266,GRB121102A,18 03 36.22,-16 57 27.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00537266/
+537195,00537195,GRB121031A,11 23 04.91,-03 31 01.9,2.0,Yes,2.1,True,https://www.swift.ac.uk/xrt_curves/00537195/
+536897,00536897,GRB121028A,18 07 35.84,-02 17 37.1,2.0,Yes,3.1,True,https://www.swift.ac.uk/xrt_curves/00536897/
+536831,00536831,GRB121027A,04 14 23.44,-58 49 47.2,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00536831/
+536580,00536580,GRB121024A,04 41 53.09,-12 17 28.1,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00536580/
+536502,00536502,BAT_Trigger_536502,,,,,,False,https://www.swift.ac.uk/xrt_curves/00536502/
+536172,00536172,GRB121017A,19 15 19.25,-01 36 15.1,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00536172/
+535764,00535764,GRB121011A,17 20 51.56,+41 06 43.1,4.1,No,,True,https://www.swift.ac.uk/xrt_curves/00535764/
+535747,00535747,BAT_Trigger_535747,18 08 39.37,-20 24 41.8,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00535747/
+535026,00535026,GRB121001A,18 24 07.97,-05 39 55.8,2.3,Yes,2.2,True,https://www.swift.ac.uk/xrt_curves/00535026/
+534815,00534815,GRB120927A,09 06 27.39,+00 24 57.6,2.0,Yes,3.4,True,https://www.swift.ac.uk/xrt_curves/00534815/
+534402,00534402,GRB120923A,20 15 10.75,+06 13 15.9,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00534402/
+534394,00534394,GRB120922A,15 38 59.60,-20 10 55.4,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00534394/
+534017,00534017,BAT_Trigger_534017,,,,,,False,https://www.swift.ac.uk/xrt_curves/00534017/
+533268,00533268,GRB120911A,23 51 55.84,+63 05 54.1,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00533268/
+533120,00533120,BAT_Trigger_533120,17 39 11.86,-30 20 47.1,5.5,No,,True,https://www.swift.ac.uk/xrt_curves/00533120/
+533060,00533060,GRB120909A,18 22 57.66,-59 26 52.5,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00533060/
+532871,00532871,GRB120907A,04 58 59.98,-09 18 52.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00532871/
+531428,00531428,GRB120819A,15 43 38.04,-07 18 32.8,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00531428/
+531267,00531267,GRB120817A,16 42 45.86,-38 21 15.0,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00531267/
+531223,00531223,GRB120816A,18 48 34.33,-06 56 17.2,2.1,Yes,3.5,True,https://www.swift.ac.uk/xrt_curves/00531223/
+531003,00531003,GRB120815A,18 15 50.14,-52 07 47.4,3.6,No,5.0,True,https://www.swift.ac.uk/xrt_curves/00531003/
+530808,00530808,BAT_Trigger_530808,17 48 05.92,-24 46 37.2,4.2,No,,True,https://www.swift.ac.uk/xrt_curves/00530808/
+530689,00530689,GRB120811C,13 18 43.93,+62 18 01.6,2.0,Yes,4.9,True,https://www.swift.ac.uk/xrt_curves/00530689/
+530267,00530267,GRB120807A,16 05 02.37,-47 28 47.6,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00530267/
+530031,00530031,GRB120805A,14 26 09.81,+05 49 33.9,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/00530031/
+529813,00529813,BAT_Trigger_529813,,,,,,False,https://www.swift.ac.uk/xrt_curves/00529813/
+529686,00529686,GRB120804A,15 35 47.43,-28 46 57.4,2.0,Yes,3.7,True,https://www.swift.ac.uk/xrt_curves/00529686/
+529606,00529606,GRB120803B,20 56 56.65,+53 18 13.7,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00529606/
+529582,00529582,GRB120803A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00529582/
+529486,00529486,GRB120802A,02 59 22.21,+13 46 06.9,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00529486/
+529095,00529095,GRB120729A,00 52 17.88,+49 56 24.5,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00529095/
+529021,00529021,GRB120728A,09 08 22.75,-54 26 17.4,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00529021/
+528925,00528925,BAT_Trigger_528925,,,,,,False,https://www.swift.ac.uk/xrt_curves/00528925/
+528443,00528443,GRB120724A,16 20 43.19,+03 30 29.0,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00528443/
+528432,00528432,BAT_Trigger_528432,17 54 25.28,-26 19 54.0,2.1,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00528432/
+528195,00528195,GRB120722A,15 21 59.09,+13 15 03.7,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00528195/
+526593,00526593,GRB120714A,11 11 56.23,-30 37 40.4,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00526593/
+526351,00526351,GRB120712A,11 18 21.14,-20 02 02.7,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00526351/
+526270,00526270,GRB120711B,22 06 45.70,+60 01 18.2,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00526270/
+525671,00525671,GRB120703A,22 37 25.44,-29 43 27.9,3.7,No,3.3,True,https://www.swift.ac.uk/xrt_curves/00525671/
+525554,00525554,BAT_Trigger_525554,,,,,,False,https://www.swift.ac.uk/xrt_curves/00525554/
+525261,00525261,BAT_Trigger_525261,08 35 55.32,-43 11 08.5,2.5,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00525261/
+525152,00525152,BAT_Trigger_525152,08 35 54.83,-43 11 11.0,3.7,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00525152/
+524949,00524949,BAT_Trigger_524949,,,,,,False,https://www.swift.ac.uk/xrt_curves/00524949/
+524542,00524542,BAT_Trigger_524542,18 51 14.57,-00 00 04.0,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00524542/
+524128,00524128,GRB120612A,08 26 53.19,-17 34 29.3,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00524128/
+523489,00523489,BAT_Trigger_523489,,,,,,False,https://www.swift.ac.uk/xrt_curves/00523489/
+522656,00522656,GRB120521C,14 17 08.93,+42 08 35.1,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/00522656/
+522586,00522586,GRB120521B,13 08 02.32,-52 45 17.5,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00522586/
+522578,00522578,GRB120521A,09 54 53.93,-49 25 02.1,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00522578/
+522245,00522245,BAT_Trigger_522245,17 09 00.85,-36 18 46.6,3.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00522245/
+522197,00522197,GRB120514A,18 52 00.24,-04 15 45.8,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00522197/
+521567,00521567,BAT_Trigger_521567,18 45 01.66,-04 33 56.7,2.0,Yes,2.8,True,https://www.swift.ac.uk/xrt_curves/00521567/
+520928,00520928,GRB120426A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00520928/
+520658,00520658,GRB120422A,09 07 38.38,+14 01 07.0,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00520658/
+519874,00519874,BAT_Trigger_519874,,,,,,False,https://www.swift.ac.uk/xrt_curves/00519874/
+519850,00519850,1E 1145.1-6141,11 47 28.68,-61 57 13.9,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00519850/
+519380,00519380,GRB120404A,15 40 02.33,+12 53 05.2,2.0,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/00519380/
+519256,00519256,GRB120403B,03 41 20.38,-89 00 35.2,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00519256/
+519207,00519207,BAT_Trigger_519207,,,,,,False,https://www.swift.ac.uk/xrt_curves/00519207/
+519043,00519043,GRB120401A,03 52 19.67,-17 38 09.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00519043/
+518853,00518853,BAT_Trigger_518853,,,,,,False,https://www.swift.ac.uk/xrt_curves/00518853/
+518792,00518792,GRB120328A,16 06 26.94,-39 20 10.3,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00518792/
+518731,00518731,GRB120327A,16 27 27.53,-29 24 54.6,2.0,Yes,4.2,True,https://www.swift.ac.uk/xrt_curves/00518731/
+518626,00518626,GRB120326A,18 15 36.50,+69 15 37.6,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00518626/
+518507,00518507,GRB120324A,19 24 18.59,+24 07 49.5,3.6,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00518507/
+518200,00518200,GRB120320A,14 10 04.26,+08 41 47.7,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00518200/
+517566,00517566,GRB120312A,16 47 09.21,+23 51 30.8,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00517566/
+517489,00517489,GRB120311B,17 14 14.63,-13 03 07.5,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00517489/
+517469,00517469,GRB120311A,18 12 21.48,+14 17 49.8,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00517469/
+517234,00517234,GRB120308A,14 36 20.52,+79 41 12.9,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00517234/
+516997,00516997,GRB120305A,03 10 08.84,+28 29 29.6,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00516997/
+515976,00515976,GRB120224A,02 43 46.15,-17 45 41.0,2.0,Yes,2.4,True,https://www.swift.ac.uk/xrt_curves/00515976/
+515375,00515375,GRB120219A,08 39 09.56,+51 01 53.7,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00515375/
+515015,00515015,GRB120215A,02 00 11.45,+08 48 06.8,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00515015/
+514767,00514767,GRB120213A,20 04 03.07,+65 24 39.6,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00514767/
+514709,00514709,GRB120212A,02 52 24.50,-18 01 16.3,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00514709/
+514586,00514586,GRB120211A,05 51 00.91,-24 46 32.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00514586/
+513505,00513505,BAT_Trigger_513505,02 40 31.83,+61 13 44.4,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00513505/
+512164,00512164,GRB120121A,16 37 25.13,-23 57 41.4,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00512164/
+512035,00512035,GRB120119A,08 00 07.02,-09 04 50.5,3.7,No,3.1,True,https://www.swift.ac.uk/xrt_curves/00512035/
+512003,00512003,GRB120118B,08 19 29.17,-07 11 05.8,2.1,Yes,4.7,True,https://www.swift.ac.uk/xrt_curves/00512003/
+511866,00511866,GRB120116A,01 04 57.94,+33 55 49.6,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00511866/
+511611,00511611,BAT_Trigger_511611,01 46 22.71,+61 45 04.7,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00511611/
+511235,00511235,GRB120106A,04 24 25.70,+64 02 19.7,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00511235/
+510963,00510963,BAT_Trigger_510963,,,,,,False,https://www.swift.ac.uk/xrt_curves/00510963/
+510922,00510922,GRB120102A,18 24 53.86,+24 42 48.9,2.0,Yes,3.7,True,https://www.swift.ac.uk/xrt_curves/00510922/
+510736,00510736,GRB111229A,05 05 09.25,-84 42 38.8,2.5,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/00510736/
+510649,00510649,GRB111228A,10 00 16.17,+18 17 51.9,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00510649/
+510341,00510341,GRB111225A,00 52 37.14,+51 34 18.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00510341/
+510075,00510075,GRB111221A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00510075/
+509543,00509543,GRB111212A,20 41 44.23,-68 36 43.3,3.5,No,4.2,True,https://www.swift.ac.uk/xrt_curves/00509543/
+509419,00509419,GRB111210A,12 45 54.51,-07 09 57.6,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00509419/
+509018,00509018,GRB111204A,22 26 30.99,-31 22 30.5,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00509018/
+508712,00508712,GRB111129A,20 29 44.31,-52 42 48.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00508712/
+508319,00508319,GRB111123A,10 19 23.14,-20 38 43.1,3.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00508319/
+508161,00508161,GRB111121A,10 19 2.71,-46 40 14.9,2.2,Yes,3.0,True,https://www.swift.ac.uk/xrt_curves/00508161/
+507901,00507901,GRB111117A,00 50 46.22,+23 00 39.2,2.1,Yes,3.1,True,https://www.swift.ac.uk/xrt_curves/00507901/
+507342,00507342,GRB111109A,07 52 49.03,-41 35 03.0,4.1,No,,True,https://www.swift.ac.uk/xrt_curves/00507342/
+507185,00507185,GRB111107A,08 37 54.72,-66 31 11.4,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00507185/
+506892,00506892,BAT_Trigger_506892,,,,,,False,https://www.swift.ac.uk/xrt_curves/00506892/
+506889,00506889,BAT_Trigger_506889,09 03 52.50,-40 45 56.0,6.5,No,,True,https://www.swift.ac.uk/xrt_curves/00506889/
+506886,00506886,BAT_Trigger_506886,09 04 37.19,-40 38 33.5,7.1,No,,True,https://www.swift.ac.uk/xrt_curves/00506886/
+506884,00506884,BAT_Trigger_506884,09 05 35.47,-40 29 57.7,5.1,No,,True,https://www.swift.ac.uk/xrt_curves/00506884/
+506519,00506519,GRB111029A,02 59 7.82,+57 06 36.9,4.4,No,,True,https://www.swift.ac.uk/xrt_curves/00506519/
+506074,00506074,GRB111022B,07 15 51.53,+49 40 59.6,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00506074/
+506070,00506070,GRB111022A,18 23 27.66,-23 40 23.9,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00506070/
+505926,00505926,GRB111020A,19 08 12.41,-38 00 44.5,2.2,Yes,3.1,True,https://www.swift.ac.uk/xrt_curves/00505926/
+505801,00505801,GRB111018A,18 05 57.26,-03 54 27.0,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00505801/
+505516,00505516,BAT_Trigger_505516,17 40 42.08,-28 07 25.1,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00505516/
+505054,00505054,GRB111008A,04 01 48.39,-32 42 33.1,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00505054/
+504215,00504215,GRB110928A,17 10 56.04,+36 32 10.8,4.1,No,2.5,True,https://www.swift.ac.uk/xrt_curves/00504215/
+502024,00502024,BAT_Trigger_502024,,,,,,False,https://www.swift.ac.uk/xrt_curves/00502024/
+501752,00501752,BAT_Trigger_501752,,,,,,False,https://www.swift.ac.uk/xrt_curves/00501752/
+501485,00501485,BAT_Trigger_501485,,,,,,False,https://www.swift.ac.uk/xrt_curves/00501485/
+501368,00501368,BAT_Trigger_501368,,,,,,False,https://www.swift.ac.uk/xrt_curves/00501368/
+501095,00501095,GRB110820A,22 52 45.88,+70 17 51.7,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00501095/
+500914,00500914,GRB110818A,21 09 21.07,-63 58 52.7,2.0,Yes,4.5,True,https://www.swift.ac.uk/xrt_curves/00500914/
+458918,00458918,GRB110808A,03 49 4.14,-44 11 38.9,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00458918/
+458907,00458907,GRB110807A,18 34 52.20,-08 45 57.5,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00458907/
+458521,00458521,GRB110801A,05 57 45.09,+80 57 21.1,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00458521/
+458448,00458448,GRB110731A,18 42 0.85,-28 32 13.6,2.0,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/00458448/
+458345,00458345,BAT_Trigger_458345,01 46 22.34,+61 45 04.3,2.0,Yes,3.7,True,https://www.swift.ac.uk/xrt_curves/00458345/
+458276,00458276,BAT_Trigger_458276,,,,,,False,https://www.swift.ac.uk/xrt_curves/00458276/
+458269,00458269,BAT_Trigger_458269,,,,,,False,https://www.swift.ac.uk/xrt_curves/00458269/
+458268,00458268,BAT_Trigger_458268,,,,,,False,https://www.swift.ac.uk/xrt_curves/00458268/
+458059,00458059,GRB110726A,19 06 52.04,+56 04 15.9,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00458059/
+457553,00457553,GRB110719A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00457553/
+457076,00457076,GRB110711A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00457076/
+456967,00456967,GRB110709B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00456967/
+456939,00456939,GRB110709A,15 55 33.86,+40 55 28.0,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00456939/
+456780,00456780,BAT_Trigger_456780,,,,,,False,https://www.swift.ac.uk/xrt_curves/00456780/
+456532,00456532,GRB110702A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00456532/
+456505,00456505,BAT_Trigger_456505,18 41 19.41,-04 56 11.0,3.6,No,2.5,True,https://www.swift.ac.uk/xrt_curves/00456505/
+456073,00456073,GRB110625B,19 06 55.66,+06 45 14.7,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00456073/
+455904,00455904,BAT_Trigger_455904,18 41 19.43,-04 56 09.9,2.1,Yes,3.2,True,https://www.swift.ac.uk/xrt_curves/00455904/
+455155,00455155,GRB110610A,20 32 42.57,+74 49 27.5,3.6,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00455155/
+454473,00454473,GRB110530A,18 48 16.63,+61 55 45.3,2.0,Yes,4.2,True,https://www.swift.ac.uk/xrt_curves/00454473/
+453788,00453788,GRB110521A,08 00 31.84,+45 49 35.1,2.3,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/00453788/
+453747,00453747,GRB110520A,08 57 21.66,+56 25 38.1,2.1,Yes,4.1,True,https://www.swift.ac.uk/xrt_curves/00453747/
+452685,00452685,GRB110503A,08 51 5.95,+52 12 27.9,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00452685/
+451901,00451901,GRB110422A,07 28 12.35,+75 06 27.9,3.5,No,3.2,True,https://www.swift.ac.uk/xrt_curves/00451901/
+451794,00451794,GRB110420B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00451794/
+451757,00451757,GRB110420A,00 08 39.21,-37 53 10.7,2.0,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/00451757/
+451343,00451343,GRB110414A,06 31 29.30,+24 21 45.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00451343/
+451165,00451165,GRB110411A,19 25 46.06,+67 42 41.2,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00451165/
+450884,00450884,GRB110407A,12 24 7.53,+15 42 42.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00450884/
+450610,00450610,BAT_Trigger_450610,11 47 28.94,-61 57 15.4,2.4,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00450610/
+450545,00450545,GRB110402A,13 09 36.40,+61 15 10.3,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00450545/
+449907,00449907,BAT_Trigger_449907,17 54 25.35,-26 19 52.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00449907/
+449578,00449578,GRB110319A,23 46 0.40,-66 00 40.9,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00449578/
+449549,00449549,GRB110318B,14 06 42.86,-51 34 44.5,2.1,Yes,4.5,True,https://www.swift.ac.uk/xrt_curves/00449549/
+449399,00449399,GRB110315A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00449399/
+449074,00449074,GRB110312A,10 29 55.43,-05 15 46.5,2.0,Yes,3.4,True,https://www.swift.ac.uk/xrt_curves/00449074/
+448229,00448229,GRB110305A,17 23 31.36,-15 48 08.1,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00448229/
+446677,00446677,GRB110223B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00446677/
+446674,00446674,GRB110223A,23 03 25.74,+87 33 25.9,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00446674/
+445776,00445776,Kes 73,18 41 19.46,-04 56 10.4,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00445776/
+445414,00445414,GRB110213A,02 51 51.35,+49 16 22.5,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00445414/
+445141,00445141,GRB110210A,00 52 13.59,+07 46 45.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00445141/
+445038,00445038,GRB110208A,01 29 50.86,-20 35 33.9,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00445038/
+444643,00444643,GRB110205A,10 58 30.76,+67 31 31.2,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00444643/
+444230,00444230,GRB110201A,09 10 18.56,+88 36 21.6,3.6,No,4.6,True,https://www.swift.ac.uk/xrt_curves/00444230/
+443861,00443861,GRB110128A,12 55 35.08,+28 03 54.3,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00443861/
+442978,00442978,GRB110119A,23 14 20.74,+05 59 11.4,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00442978/
+442771,00442771,GRB110118A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00442771/
+442539,00442539,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00442539/
+442039,00442039,GRB110112A,21 59 43.87,+26 27 23.3,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00442039/
+441676,00441676,GRB110106B,08 56 37.12,+47 00 10.9,2.1,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/00441676/
+441664,00441664,GRB110106A,05 17 13.83,+64 10 26.0,3.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/00441664/
+441454,00441454,GRB110102A,16 23 31.59,+07 36 48.7,2.1,Yes,4.5,True,https://www.swift.ac.uk/xrt_curves/00441454/
+440955,00440955,GRB101224A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00440955/
+440635,00440635,GRB101219B,00 48 55.66,-34 33 55.6,4.3,No,,True,https://www.swift.ac.uk/xrt_curves/00440635/
+440606,00440606,GRB101219A,04 58 20.51,-02 32 22.1,2.4,Yes,4.8,True,https://www.swift.ac.uk/xrt_curves/00440606/
+440285,00440285,GRB101213A,16 05 15.27,+21 53 49.8,3.8,No,2.2,True,https://www.swift.ac.uk/xrt_curves/00440285/
+438675,00438675,GRB101117B,11 32 0.78,-72 39 45.2,2.0,Yes,3.1,True,https://www.swift.ac.uk/xrt_curves/00438675/
+437408,00437408,GRB101030A,11 05 31.83,-16 22 41.8,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00437408/
+437016,00437016,GRB101024A,04 26 1.52,-77 15 53.6,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00437016/
+436429,00436429,GRB101017A,19 25 32.65,-35 08 42.1,2.0,Yes,4.1,True,https://www.swift.ac.uk/xrt_curves/00436429/
+436094,00436094,GRB101011A,03 13 10.96,-65 58 55.5,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00436094/
+435903,00435903,GRB101008A,21 55 29.88,+37 03 57.7,3.8,No,,True,https://www.swift.ac.uk/xrt_curves/00435903/
+435520,00435520,BAT_Trigger_435520,,,,,,False,https://www.swift.ac.uk/xrt_curves/00435520/
+434178,00434178,GRB100915A,21 02 46.51,+65 40 22.8,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00434178/
+433953,00433953,BAT_Trigger_433953,,,,,,False,https://www.swift.ac.uk/xrt_curves/00433953/
+20147,00020147,GRB100909A,04 55 47.79,+54 39 28.3,4.7,No,,True,https://www.swift.ac.uk/xrt_curves/00020147/
+433509,00433509,GRB100906A,01 54 44.29,+55 37 49.7,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00433509/
+433442,00433442,GRB100905A,02 06 12.12,+14 55 47.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00433442/
+433160,00433160,GRB100902A,03 14 30.98,+30 58 43.7,2.1,Yes,3.4,True,https://www.swift.ac.uk/xrt_curves/00433160/
+433065,00433065,GRB100901A,01 49 3.41,+22 45 30.1,3.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00433065/
+432420,00432420,GRB100823A,01 22 49.06,+05 50 06.4,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00432420/
+431764,00431764,GRB100816A,23 26 57.65,+26 34 44.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00431764/
+431758,00431758,BAT_Trigger_431758,,,,,,False,https://www.swift.ac.uk/xrt_curves/00431758/
+431605,00431605,GRB100814A,01 29 53.44,-17 59 44.6,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00431605/
+431582,00431582,BAT_Trigger_431582,17 47 16.19,-28 10 48.9,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00431582/
+431128,00431128,GRB100807A,03 41 12.50,+67 40 18.0,2.2,Yes,4.6,True,https://www.swift.ac.uk/xrt_curves/00431128/
+430975,00430975,GRB100805B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00430975/
+430957,00430957,GRB100805A,19 59 30.21,+52 37 40.3,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00430957/
+430603,00430603,GRB100802A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00430603/
+430151,00430151,GRB100728A,05 55 2.16,-15 15 19.7,3.6,No,3.1,True,https://www.swift.ac.uk/xrt_curves/00430151/
+430094,00430094,GRB100727A,10 16 42.59,-21 23 25.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00430094/
+429969,00429969,GRB100725B,19 20 7.87,+76 57 23.8,2.1,Yes,2.4,True,https://www.swift.ac.uk/xrt_curves/00429969/
+429954,00429954,GRB100725A,11 05 55.57,-26 40 12.9,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00429954/
+429868,00429868,GRB100724A,12 58 10.29,-11 06 10.0,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00429868/
+20143,00020143,GRB100713A,17 00 48.46,+28 23 41.6,4.9,No,4.8,True,https://www.swift.ac.uk/xrt_curves/00020143/
+426722,00426722,GRB100704A,08 54 33.82,-24 12 09.8,2.1,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/00426722/
+426438,00426438,GRB100702A,16 22 47.26,-56 31 53.8,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00426438/
+426405,00426405,SAX 1712.6-3739,17 12 36.75,-37 38 43.0,4.1,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00426405/
+426114,00426114,GRB100628A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00426114/
+425647,00425647,GRB100625A,01 03 10.95,-39 05 17.5,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00425647/
+425151,00425151,GRB100621A,21 01 13.24,-51 06 21.7,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00425151/
+424998,00424998,GRB100619A,05 38 29.31,-27 00 17.2,2.0,Yes,2.4,True,https://www.swift.ac.uk/xrt_curves/00424998/
+424733,00424733,GRB100615A,11 48 49.27,-19 28 51.3,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00424733/
+424716,00424716,GRB100614A,17 33 59.86,+49 14 05.1,2.0,Yes,4.9,True,https://www.swift.ac.uk/xrt_curves/00424716/
+20140,00020140,GRB100610H,,,,,,False,https://www.swift.ac.uk/xrt_curves/00020140/
+424161,00424161,GRB100608A,19 45 39.28,+27 21 50.4,3.7,No,3.4,True,https://www.swift.ac.uk/xrt_curves/00424161/
+424040,00424040,BAT_Trigger_424040,,,,,,False,https://www.swift.ac.uk/xrt_curves/00424040/
+424031,00424031,GRB100606A,23 22 30.37,-66 14 28.1,2.0,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00424031/
+423958,00423958,BAT_Trigger_423958,18 41 0.43,-05 35 46.3,3.6,No,3.9,True,https://www.swift.ac.uk/xrt_curves/00423958/
+423184,00423184,GRB100526B,00 02 56.39,-37 54 42.9,5.3,No,,True,https://www.swift.ac.uk/xrt_curves/00423184/
+423181,00423181,GRB100526A,15 23 4.53,+25 37 56.8,2.1,Yes,4.5,True,https://www.swift.ac.uk/xrt_curves/00423181/
+422783,00422783,GRB100522A,00 27 56.83,+09 24 07.3,2.0,Yes,2.2,True,https://www.swift.ac.uk/xrt_curves/00422783/
+20138,00020138,GRB100518A,20 19 9.23,-24 33 17.9,4.0,No,,True,https://www.swift.ac.uk/xrt_curves/00020138/
+422437,00422437,GRB100518A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00422437/
+421962,00421962,GRB100514A,21 55 17.45,+29 09 36.8,2.3,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00421962/
+421814,00421814,GRB100513A,11 18 26.74,+03 37 39.7,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00421814/
+421695,00421695,GRB100511A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00421695/
+421386,00421386,GRB100508A,05 04 58.91,-20 42 41.7,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00421386/
+421262,00421262,Kes 73,18 41 19.49,-04 56 21.6,5.1,No,,True,https://www.swift.ac.uk/xrt_curves/00421262/
+421124,00421124,GRB100504A,17 02 17.20,-35 35 14.0,2.2,Yes,3.1,True,https://www.swift.ac.uk/xrt_curves/00421124/
+421072,00421072,GRB100504A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00421072/
+420398,00420398,GRB100425A,19 56 47.17,-26 25 49.6,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00420398/
+420367,00420367,GRB100424A,13 57 47.44,+01 32 18.8,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00420367/
+420256,00420256,GRB100423B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00420256/
+419932,00419932,GRB100420A,19 44 30.57,+55 46 11.0,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00419932/
+419797,00419797,GRB100418A,17 05 27.27,+11 27 40.8,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00419797/
+20135,00020135,GRB100414,,,,,,False,https://www.swift.ac.uk/xrt_curves/00020135/
+419404,00419404,GRB100413A,17 44 53.16,+15 50 02.8,2.1,Yes,3.2,True,https://www.swift.ac.uk/xrt_curves/00419404/
+419015,00419015,BAT_Trigger_419015,,,,,,False,https://www.swift.ac.uk/xrt_curves/00419015/
+417420,00417420,BAT_Trigger_417420,08 40 47.52,-45 03 33.7,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/00417420/
+416485,00416485,GRB100319A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00416485/
+416226,00416226,GRB100317A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00416226/
+416140,00416140,GRB100316E,,,,,,False,https://www.swift.ac.uk/xrt_curves/00416140/
+416115,00416115,GRB100316C,02 09 8.80,-67 59 29.1,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00416115/
+416103,00416103,GRB100316B,10 53 57.25,-45 28 23.0,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00416103/
+416076,00416076,GRB100316A,16 47 54.84,+71 49 35.4,4.4,No,,True,https://www.swift.ac.uk/xrt_curves/00416076/
+414905,00414905,GRB100305A,11 13 28.23,+42 24 10.1,4.4,No,,True,https://www.swift.ac.uk/xrt_curves/00414905/
+414875,00414875,BAT_Trigger_414875,17 54 25.26,-26 19 50.6,2.2,Yes,2.1,True,https://www.swift.ac.uk/xrt_curves/00414875/
+414592,00414592,GRB100302A,13 02 3.80,+74 35 23.9,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00414592/
+412982,00412982,GRB100219A,10 16 48.59,-12 34 01.3,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00412982/
+412217,00412217,GRB100213A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00412217/
+412081,00412081,GRB100212A,23 45 40.41,+49 29 38.2,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00412081/
+411412,00411412,GRB100206A,03 08 38.77,+13 09 27.1,3.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00411412/
+411248,00411248,GRB100205A,09 25 33.07,+31 44 26.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00411248/
+382941,00382941,GRB100117A,00 45 4.56,-01 35 41.7,2.4,Yes,4.1,True,https://www.swift.ac.uk/xrt_curves/00382941/
+382399,00382399,GRB100111A,16 28 11.64,+15 33 02.5,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00382399/
+381591,00381591,GRB091231A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00381591/
+381434,00381434,GRB091229A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00381434/
+380311,00380311,GRB091221A,03 43 11.59,+23 14 25.1,4.2,No,,True,https://www.swift.ac.uk/xrt_curves/00380311/
+379449,00379449,GRB091215A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00379449/
+378559,00378559,GRB091208B,01 57 34.09,+16 53 23.6,2.1,Yes,3.0,True,https://www.swift.ac.uk/xrt_curves/00378559/
+378554,00378554,GRB091208,,,,,,False,https://www.swift.ac.uk/xrt_curves/00378554/
+377436,00377436,GRB091130,,,,,,False,https://www.swift.ac.uk/xrt_curves/00377436/
+377179,00377179,GRB091127,,,,,,False,https://www.swift.ac.uk/xrt_curves/00377179/
+20120,00020120,GRB091111,,,,,,False,https://www.swift.ac.uk/xrt_curves/00020120/
+375409,00375409,GRB091109B,07 30 56.51,-54 05 23.0,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00375409/
+375246,00375246,GRB091109,20 37 1.89,-44 09 32.9,2.2,Yes,3.7,True,https://www.swift.ac.uk/xrt_curves/00375246/
+374875,00374875,GRB091104,13 55 1.61,+47 24 38.2,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00374875/
+374210,00374210,GRB091029,04 00 42.79,-55 57 20.7,2.0,Yes,4.8,True,https://www.swift.ac.uk/xrt_curves/00374210/
+373871,00373871,GRB091026,18 26 17.41,-86 06 41.5,2.1,Yes,3.5,True,https://www.swift.ac.uk/xrt_curves/00373871/
+373787,00373787,Non-burst,20 04 36.44,+35 58 06.4,4.8,No,,True,https://www.swift.ac.uk/xrt_curves/00373787/
+373684,00373684,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00373684/
+373679,00373679,Non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00373679/
+373674,00373674,GRB091024,22 41 10.76,+56 13 43.7,4032.3,No,,True,https://www.swift.ac.uk/xrt_curves/00373674/
+373458,00373458,GRB091020,11 42 55.22,+50 58 41.4,2.1,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/00373458/
+373172,00373172,GRB091018,02 08 44.70,-57 32 55.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00373172/
+371210,00371210,IGR J17511-3057,17 51 8.63,-30 57 43.4,2.0,Yes,3.7,True,https://www.swift.ac.uk/xrt_curves/00371210/
+370846,00370846,GRB090927,22 55 53.76,-70 58 44.0,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00370846/
+370791,00370791,GRB090926B,03 05 14.16,-39 00 22.0,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00370791/
+362633,00362633,GRB090912,12 32 10.28,+61 29 03.8,2.1,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00362633/
+361958,00361958,SAX J1818.6-1703,18 18 37.73,-17 02 50.4,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00361958/
+361831,00361831,GRB090904B,17 36 44.44,-25 12 49.5,2.0,Yes,2.6,True,https://www.swift.ac.uk/xrt_curves/00361831/
+361830,00361830,GRB090904,06 43 32.60,+50 12 12.9,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00361830/
+361489,00361489,GRB090831C,07 13 10.62,-25 07 06.9,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00361489/
+361477,00361477,GRB090831B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00361477/
+360435,00360435,Subthreshold non-burst,16 40 47.32,-47 20 29.1,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/00360435/
+359951,00359951,GRB090814,15 58 26.29,+25 37 51.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00359951/
+359884,00359884,GRB090813,15 03 5.24,+88 34 05.3,2.1,Yes,3.5,True,https://www.swift.ac.uk/xrt_curves/00359884/
+359711,00359711,GRB090812,23 32 48.62,-10 36 17.1,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00359711/
+359530,00359530,GRB090809,21 54 42.71,-00 05 01.7,3.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00359530/
+359378,00359378,GRB090807,18 14 58.50,+10 15 58.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00359378/
+358760,00358760,GRB090731,,,,,,False,https://www.swift.ac.uk/xrt_curves/00358760/
+358574,00358574,GRB090728,01 58 36.75,+41 38 00.4,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00358574/
+358520,00358520,GRB090727,21 03 50.59,+64 55 27.7,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/00358520/
+358422,00358422,GRB090726,16 34 42.95,+72 53 03.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00358422/
+358357,00358357,BAT_Trigger_358357,20 09 29.25,+32 47 37.0,5.4,No,,True,https://www.swift.ac.uk/xrt_curves/00358357/
+356516,00356516,GRB090705,,,,,,False,https://www.swift.ac.uk/xrt_curves/00356516/
+355911,00355911,BAT_Trigger_355911,18 45 1.56,-04 33 59.6,4.8,No,,True,https://www.swift.ac.uk/xrt_curves/00355911/
+20105,00020105,GRB090625B,00 09 2.83,-65 46 49.2,4.1,No,,True,https://www.swift.ac.uk/xrt_curves/00020105/
+354542,00354542,IGR J16328-4726,16 32 37.95,-47 23 42.9,2.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00354542/
+354299,00354299,GRB090607,12 44 40.56,+44 06 19.5,3.9,No,4.6,True,https://www.swift.ac.uk/xrt_curves/00354299/
+354221,00354221,IGR 17544-2619,17 54 25.19,-26 19 54.1,3.9,No,,True,https://www.swift.ac.uk/xrt_curves/00354221/
+353728,00353728,GRB090531B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00353728/
+353567,00353567,GRB090530,11 57 40.51,+26 35 38.6,2.1,Yes,4.5,True,https://www.swift.ac.uk/xrt_curves/00353567/
+353540,00353540,GRB090529,14 09 52.64,+24 27 31.6,3.6,No,4.9,True,https://www.swift.ac.uk/xrt_curves/00353540/
+352648,00352648,GRB090519,09 29 6.94,+00 10 48.3,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00352648/
+352420,00352420,GRB090518,07 59 48.98,+00 45 32.8,2.0,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00352420/
+352417,00352417,BAT_Trigger_352417,,,,,,False,https://www.swift.ac.uk/xrt_curves/00352417/
+352190,00352190,GRB090516,09 13 2.62,-11 51 17.1,4.0,No,,True,https://www.swift.ac.uk/xrt_curves/00352190/
+352108,00352108,GRB090515,10 56 36.18,+14 26 27.0,3.4,Yes,,True,https://www.swift.ac.uk/xrt_curves/00352108/
+351588,00351588,GRB090510,22 14 12.51,-26 34 59.0,2.0,Yes,3.9,True,https://www.swift.ac.uk/xrt_curves/00351588/
+351323,00351323,SAX J1818.6-1703,18 18 37.63,-17 02 45.2,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00351323/
+350854,00350854,GRB090429B,14 02 40.12,+32 10 15.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00350854/
+350479,00350479,GRB090426,12 36 17.98,+32 59 09.1,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00350479/
+350311,00350311,GRB090424,12 38 5.41,+16 50 11.6,3.7,No,4.5,True,https://www.swift.ac.uk/xrt_curves/00350311/
+350184,00350184,GRB090423,09 55 33.11,+18 08 58.6,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00350184/
+349931,00349931,GRB090422,19 39 0.04,+40 23 02.9,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00349931/
+349718,00349718,Subthreshhold non-burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00349718/
+349592,00349592,GRB090419,13 07 42.81,-75 36 20.8,2.1,Yes,2.1,True,https://www.swift.ac.uk/xrt_curves/00349592/
+349510,00349510,GRB090418,17 57 15.09,+33 24 19.9,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00349510/
+349450,00349450,GRB090417B,13 58 46.50,+47 01 00.5,3.7,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00349450/
+348781,00348781,GRB090409,,,,,,False,https://www.swift.ac.uk/xrt_curves/00348781/
+348720,00348720,GRB090408,,,,,,False,https://www.swift.ac.uk/xrt_curves/00348720/
+348650,00348650,GRB090407,04 35 54.95,-12 40 46.2,2.1,Yes,4.8,True,https://www.swift.ac.uk/xrt_curves/00348650/
+348428,00348428,GRB090404,15 56 57.57,+35 30 58.1,2.1,Yes,2.5,True,https://www.swift.ac.uk/xrt_curves/00348428/
+345945,00345945,GRB090309,18 59 53.51,-25 15 39.8,3.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00345945/
+345777,00345777,GRB090308,12 14 0.39,-48 49 01.3,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00345777/
+345551,00345551,GRB090307,16 19 58.62,-28 38 01.3,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00345551/
+345396,00345396,Subthreshold non-burst,01 06 58.31,-50 00 07.4,4.9,No,,True,https://www.swift.ac.uk/xrt_curves/00345396/
+345127,00345127,GRB090305,,,,,,False,https://www.swift.ac.uk/xrt_curves/00345127/
+343319,00343319,Non burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00343319/
+342121,00342121,GRB090205,14 43 38.72,-27 51 10.9,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00342121/
+341965,00341965,AXP 1E1547.0-5408,15 50 54.22,-54 18 23.9,2.1,Yes,3.7,True,https://www.swift.ac.uk/xrt_curves/00341965/
+341749,00341749,GRB090201,06 08 12.74,-46 35 19.8,3.5,No,2.3,True,https://www.swift.ac.uk/xrt_curves/00341749/
+341452,00341452,IGR 16479-4514,16 48 6.93,-45 12 06.6,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00341452/
+341114,00341114,BAT_Trigger_341114,15 50 54.24,-54 18 22.7,2.1,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00341114/
+341076,00341076,BAT_Trigger_341076,11 20 57.14,-61 54 58.1,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00341076/
+341055,00341055,BAT_Trigger_341055,15 50 54.43,-54 18 22.4,2.2,Yes,,True,https://www.swift.ac.uk/xrt_curves/00341055/
+340986,00340986,AXP 1E1547.0-5408,15 50 54.16,-54 18 23.2,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00340986/
+340973,00340973,1A 1118-61,11 20 57.42,-61 54 59.7,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00340973/
+340923,00340923,AXP 1E1547.0-5408,15 50 53.88,-54 18 13.7,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00340923/
+340919,00340919,BAT_Trigger_340919,11 20 57.18,-61 55 00.6,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00340919/
+340895,00340895,GRB090123,00 27 8.76,-23 30 05.3,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00340895/
+340734,00340734,GRB090122,,,,,,False,https://www.swift.ac.uk/xrt_curves/00340734/
+340573,00340573,AXP 1E1547.0-5408,15 50 53.79,-54 18 25.2,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00340573/
+339696,00339696,GRB090111,16 46 42.10,+00 04 37.6,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00339696/
+339162,00339162,BAT_Trigger_339162,11 20 57.07,-61 54 58.8,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00339162/
+338895,00338895,GRB090102,08 32 58.53,+33 06 52.5,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00338895/
+338633,00338633,GRB081230,02 29 19.37,-25 08 51.9,2.4,Yes,4.3,True,https://www.swift.ac.uk/xrt_curves/00338633/
+338338,00338338,GRB081228,02 37 50.55,+30 51 11.9,3.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00338338/
+338177,00338177,GRB081226,08 01 59.86,-69 01 48.4,2.7,Yes,2.9,True,https://www.swift.ac.uk/xrt_curves/00338177/
+337914,00337914,GRB081222,01 30 57.76,-34 05 43.8,3.5,No,,True,https://www.swift.ac.uk/xrt_curves/00337914/
+337115,00337115,GRB081211,21 52 27.90,-33 50 11.3,2.1,Yes,4.4,True,https://www.swift.ac.uk/xrt_curves/00337115/
+337073,00337073,GRB081210,04 41 56.23,-11 15 28.5,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00337073/
+335971,00335971,BAT_Trigger_335971,,,,,,False,https://www.swift.ac.uk/xrt_curves/00335971/
+335895,00335895,GRB081128,01 23 12.96,+38 07 37.6,2.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00335895/
+335715,00335715,GRB081127,22 08 15.40,+06 51 01.2,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00335715/
+335647,00335647,GRB081126,21 34 3.62,+48 42 35.3,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00335647/
+335105,00335105,GRB081121,05 57 6.15,-60 36 10.5,2.9,No,,True,https://www.swift.ac.uk/xrt_curves/00335105/
+334877,00334877,GRB081118,05 30 22.25,-43 18 07.0,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00334877/
+334129,00334129,GRB081109B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00334129/
+334112,00334112,GRB081109,22 03 9.71,-54 42 42.8,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00334112/
+333666,00333666,GRB081104,06 41 56.21,-54 43 11.6,3.3,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00333666/
+333427,00333427,GRB081102,22 04 41.35,+52 59 40.2,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/00333427/
+333320,00333320,BAT_Trigger_333320,,,,,,False,https://www.swift.ac.uk/xrt_curves/00333320/
+332931,00332931,GRB081029,23 07 5.82,-68 09 21.0,2.9,No,,True,https://www.swift.ac.uk/xrt_curves/00332931/
+332516,00332516,GRB081024,01 51 29.88,+61 19 54.1,2.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00332516/
+332287,00332287,GRB081021,,,,,,False,https://www.swift.ac.uk/xrt_curves/00332287/
+331856,00331856,GRB081016B,00 58 16.10,-43 31 46.6,3.2,No,,True,https://www.swift.ac.uk/xrt_curves/00331856/
+331332,00331332,GRB081011,,,,,,False,https://www.swift.ac.uk/xrt_curves/00331332/
+331093,00331093,GRB081008,18 39 49.92,-57 25 54.8,1.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/00331093/
+330856,00330856,GRB081007,22 39 50.57,-40 08 49.3,1.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00330856/
+330353,00330353,GRB081003,15 50 54.10,-54 18 24.1,1.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00330353/
+325707,00325707,Non burst,,,,,,False,https://www.swift.ac.uk/xrt_curves/00325707/
+325268,00325268,GRB080919,17 40 53.75,-42 22 07.2,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00325268/
+324907,00324907,GRB080916B,10 54 39.74,+69 03 56.9,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00324907/
+324895,00324895,GRB080916,22 25 6.47,-57 01 21.4,1.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00324895/
+324744,00324744,GRB080915,,,,,,False,https://www.swift.ac.uk/xrt_curves/00324744/
+324561,00324561,GRB080913,04 22 54.72,-25 07 45.4,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00324561/
+324362,00324362,2CG 135+01,02 40 31.63,+61 13 45.9,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00324362/
+323984,00323984,GRB080906,15 12 11.12,-80 31 05.3,3.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00323984/
+323898,00323898,GRB080905B,20 06 57.76,-62 33 48.1,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00323898/
+323870,00323870,GRB080905,19 10 41.65,-18 52 48.2,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00323870/
+323650,00323650,BAT_Trigger_323650,05 01 6.13,+45 16 36.7,3.4,No,,True,https://www.swift.ac.uk/xrt_curves/00323650/
+323542,00323542,GRB080903,05 47 10.10,+51 15 52.3,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00323542/
+322590,00322590,GRB080828,,,,,,False,https://www.swift.ac.uk/xrt_curves/00322590/
+321174,00321174,SGR 0501+4516,05 01 6.78,+45 16 34.0,2.5,Yes,3.0,True,https://www.swift.ac.uk/xrt_curves/00321174/
+319963,00319963,BAT_Trigger_319963,17 39 11.99,-30 20 37.7,4.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00319963/
+319036,00319036,GRB080805,20 56 53.46,-62 26 39.6,3.3,No,,True,https://www.swift.ac.uk/xrt_curves/00319036/
+319016,00319016,GRB080804,21 54 40.20,-53 11 05.5,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00319016/
+318832,00318832,BAT_Trigger_318832,18 02 54.46,-32 20 02.2,3.1,No,,True,https://www.swift.ac.uk/xrt_curves/00318832/
+318170,00318170,GRB080727C,02 10 32.12,+64 08 15.8,2.8,Yes,4.0,True,https://www.swift.ac.uk/xrt_curves/00318170/
+318166,00318166,XTE J1701-407,17 01 44.66,-40 51 27.6,3.0,No,,True,https://www.swift.ac.uk/xrt_curves/00318166/
+318101,00318101,GRB080727B,18 27 26.20,+01 09 46.6,2.7,Yes,3.6,True,https://www.swift.ac.uk/xrt_curves/00318101/
+318094,00318094,GRB080727,13 53 33.82,-18 32 41.7,2.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00318094/
+317662,00317662,GRB080723,18 17 57.74,-06 53 57.9,2.6,Yes,2.4,True,https://www.swift.ac.uk/xrt_curves/00317662/
+317393,00317393,GRB080720,,,,,,False,https://www.swift.ac.uk/xrt_curves/00317393/
+316910,00316910,GRB 080714,12 32 25.88,-60 16 38.1,3.0,No,,True,https://www.swift.ac.uk/xrt_curves/00316910/
+316534,00316534,GRB 080710,00 33 5.50,+19 30 05.8,3.0,No,,True,https://www.swift.ac.uk/xrt_curves/00316534/
+316204,00316204,GRB080707,02 10 28.36,+33 06 34.8,3.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00316204/
+316063,00316063,GRB080705,08 40 47.85,-45 03 37.7,3.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00316063/
+315819,00315819,GRB080703,06 47 13.25,-63 13 13.2,3.0,No,,True,https://www.swift.ac.uk/xrt_curves/00315819/
+315710,00315710,GRB080702,20 52 12.16,+72 18 47.0,2.8,Yes,3.7,True,https://www.swift.ac.uk/xrt_curves/00315710/
+315615,00315615,GRB080701,03 03 21.45,+75 28 31.3,3.1,No,2.5,True,https://www.swift.ac.uk/xrt_curves/00315615/
+315080,00315080,GRB080623,15 50 38.55,-62 02 56.1,2.9,No,,True,https://www.swift.ac.uk/xrt_curves/00315080/
+313954,00313954,GRB080613,11 35 11.46,-07 06 18.9,3.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00313954/
+313417,00313417,GRB080607,12 59 47.16,+15 55 09.5,2.6,Yes,4.2,True,https://www.swift.ac.uk/xrt_curves/00313417/
+313299,00313299,GRB080605,17 28 30.17,+04 00 58.6,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00313299/
+313116,00313116,GRB080604,15 47 51.66,+20 33 29.1,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00313116/
+312958,00312958,GRB080602,01 16 42.10,-09 13 55.8,2.5,Yes,4.1,True,https://www.swift.ac.uk/xrt_curves/00312958/
+312242,00312242,GRB080523,01 23 11.66,-64 01 54.4,3.0,No,,True,https://www.swift.ac.uk/xrt_curves/00312242/
+312047,00312047,GRB080520,18 40 46.52,-54 59 31.2,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00312047/
+311874,00311874,GRB080517,06 48 58.23,+50 44 06.1,2.7,Yes,4.9,True,https://www.swift.ac.uk/xrt_curves/00311874/
+311762,00311762,GRB080516,08 02 34.07,-26 09 33.8,2.8,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00311762/
+311159,00311159,GRB080506,21 57 41.51,+38 59 05.7,4.32,No,,True,https://www.swift.ac.uk/xrt_curves/00311159/
+310785,00310785,GRB080503,19 06 28.85,+68 47 37.0,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00310785/
+310613,00310613,GRB080430,11 01 14.60,+51 41 07.6,2.6,Yes,4.9,True,https://www.swift.ac.uk/xrt_curves/00310613/
+310219,00310219,GRB080426,01 45 59.82,+69 28 06.7,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00310219/
+309665,00309665,BAT_Trigger_309665,,,2.9,No,,True,https://www.swift.ac.uk/xrt_curves/00309665/
+309111,00309111,GRB080413B,21 44 34.56,-19 58 51.5,2.5,Yes,4.1,True,https://www.swift.ac.uk/xrt_curves/00309111/
+309096,00309096,GRB080413,19 09 11.29,-27 40 42.9,3.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00309096/
+308812,00308812,GRB080409,05 37 19.19,+05 05 06.8,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00308812/
+308797,00308797,BAT_Trigger_308797,17 39 11.52,-30 20 34.6,4.58,No,,True,https://www.swift.ac.uk/xrt_curves/00308797/
+308041,00308041,GRB080330,11 17 2.12,+30 37 21.9,3.0,No,,True,https://www.swift.ac.uk/xrt_curves/00308041/
+307931,00307931,GRB080328,05 21 55.77,+47 30 37.6,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00307931/
+306858,00306858,GRB080320,11 50 56.38,+57 09 27.9,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00306858/
+306793,00306793,GRB080319D,06 37 53.45,+23 56 35.0,3.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00306793/
+306778,00306778,GRB080319C,,,2.9,No,,True,https://www.swift.ac.uk/xrt_curves/00306778/
+306754,00306754,GRB080319,13 45 19.96,+44 04 49.4,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00306754/
+306746,00306746,GRB080319,,,,,,False,https://www.swift.ac.uk/xrt_curves/00306746/
+306616,00306616,Sco X-1,,,,,,False,https://www.swift.ac.uk/xrt_curves/00306616/
+306323,00306323,GRB080315,,,,,,False,https://www.swift.ac.uk/xrt_curves/00306323/
+305288,00305288,GRB080310,14 40 13.86,-00 10 29.0,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00305288/
+305011,00305011,GRB080307,09 06 30.80,+35 08 19.2,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00305011/
+304549,00304549,GRB080303,07 28 14.11,-70 14 04.0,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00304549/
+304379,00304379,GRB080229,15 12 52.46,-14 42 18.0,2.5,Yes,4.0,True,https://www.swift.ac.uk/xrt_curves/00304379/
+303631,00303631,GRB080218B,11 51 49.63,-53 05 49.3,2.7,Yes,3.5,True,https://www.swift.ac.uk/xrt_curves/00303631/
+303105,00303105,GRB080212,,,,,,False,https://www.swift.ac.uk/xrt_curves/00303105/
+302888,00302888,GRB080210,16 45 4.13,+13 49 34.0,4.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00302888/
+302506,00302506,GRB080205,06 33 0.65,+62 47 30.0,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00302506/
+301981,00301981,GRB080129,07 01 8.40,-07 50 45.8,4.2,No,,True,https://www.swift.ac.uk/xrt_curves/00301981/
+301578,00301578,GRB080123,22 35 46.00,-64 54 02.4,2.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/00301578/
+299787,00299787,GRB071227,03 52 31.53,-55 59 00.2,4.3,No,,True,https://www.swift.ac.uk/xrt_curves/00299787/
+297114,00297114,GRB071122,18 26 25.18,+47 04 31.0,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00297114/
+296856,00296856,GRB071118,19 58 51.67,+70 07 27.5,2.5,Yes,4.2,True,https://www.swift.ac.uk/xrt_curves/00296856/
+296805,00296805,GRB071117,22 20 10.45,-63 26 32.6,3.2,No,4.9,True,https://www.swift.ac.uk/xrt_curves/00296805/
+296504,00296504,GRB071112C,02 36 50.87,+28 22 19.0,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00296504/
+296491,00296491,GRB071112,,,,,,False,https://www.swift.ac.uk/xrt_curves/00296491/
+295779,00295779,GRB 071101,,,,,,False,https://www.swift.ac.uk/xrt_curves/00295779/
+295670,00295670,GRB 071031,00 25 37.40,-58 03 33.2,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00295670/
+295527,00295527,GRB 071028A,07 59 16.61,+21 29 05.5,2.7,Yes,4.7,True,https://www.swift.ac.uk/xrt_curves/00295527/
+294835,00294835,GRB 071020,07 58 39.65,+32 51 39.7,2.9,No,,True,https://www.swift.ac.uk/xrt_curves/00294835/
+293924,00293924,GRB 071011,,,,,,False,https://www.swift.ac.uk/xrt_curves/00293924/
+293795,00293795,GRB 071010B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00293795/
+292826,00292826,GRB 071001,09 58 55.02,-59 46 52.0,3.2,No,,True,https://www.swift.ac.uk/xrt_curves/00292826/
+287409,00287409,GRB 070810B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00287409/
+287364,00287364,GRB 070810A,12 39 51.26,+10 45 03.1,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00287364/
+287344,00287344,GRB 070809,13 35 4.54,-22 08 30.2,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00287344/
+287260,00287260,GRB 070808,00 27 3.46,+01 10 35.7,2.6,Yes,2.0,True,https://www.swift.ac.uk/xrt_curves/00287260/
+287088,00287088,GRB 070805,,,,,,False,https://www.swift.ac.uk/xrt_curves/00287088/
+286809,00286809,GRB 070802,02 27 35.67,-55 31 40.5,4.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00286809/
+286373,00286373,GRB 070729,03 45 16.07,-39 19 18.0,3.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00286373/
+285948,00285948,GRB 070724A,01 51 13.97,-18 35 38.5,2.8,Yes,3.1,True,https://www.swift.ac.uk/xrt_curves/00285948/
+284856,00284856,GRB 070714B,03 51 22.33,+28 17 51.1,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00284856/
+284850,00284850,GRB 070714A,,,,,,False,https://www.swift.ac.uk/xrt_curves/00284850/
+283791,00283791,GRB 070704,23 38 47.83,+66 15 11.9,3.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00283791/
+283320,00283320,GRB 070628,07 41 5.99,-20 16 44.0,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00283320/
+282808,00282808,GRB 070621,21 35 10.23,-24 49 03.5,2.6,Yes,2.4,True,https://www.swift.ac.uk/xrt_curves/00282808/
+282445,00282445,GRB 070616,02 08 36.81,+56 56 44.1,3.0,Yes,2.9,True,https://www.swift.ac.uk/xrt_curves/00282445/
+282073,00282073,GRB 070612B,17 26 54.40,-08 45 06.5,3.1,No,3.7,True,https://www.swift.ac.uk/xrt_curves/00282073/
+282003,00282003,GRB 070611,00 07 58.02,-29 45 23.1,3.3,No,,True,https://www.swift.ac.uk/xrt_curves/00282003/
+281993,00281993,GRB 070610,19 55 09.6,+26 14 06.3,8.2,No,,True,https://www.swift.ac.uk/xrt_curves/00281993/
+280958,00280958,GRB 070531,,,,,,False,https://www.swift.ac.uk/xrt_curves/00280958/
+280706,00280706,GRB 070529,18 54 58.29,+20 39 35.2,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00280706/
+279935,00279935,GRB 070521,16 10 38.62,+30 15 21.5,2.7,Yes,2.4,True,https://www.swift.ac.uk/xrt_curves/00279935/
+279898,00279898,GRB 070520B,08 07 31.16,+57 36 31.0,3.3,No,,True,https://www.swift.ac.uk/xrt_curves/00279898/
+279592,00279592,GRB 070518,16 56 47.69,+55 17 41.8,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00279592/
+279494,00279494,GRB 070517,18 30 29.01,-62 17 51.3,3.1,No,,True,https://www.swift.ac.uk/xrt_curves/00279494/
+278903,00278903,GRB 070509,15 51 50.54,-78 39 07.5,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00278903/
+278854,00278854,GRB 070508,20 51 10.88,-78 23 03.5,3.0,No,2.5,True,https://www.swift.ac.uk/xrt_curves/00278854/
+278693,00278693,GRB 070506,23 08 52.20,+10 43 20.0,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00278693/
+277582,00277582,GRB 070429B,21 52 3.75,-38 49 42.3,3.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00277582/
+277571,00277571,GRB 070429A,19 50 49.08,-32 24 16.4,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00277571/
+276321,00276321,GRB 070420,08 04 55.13,-45 33 21.6,2.5,Yes,,True,https://www.swift.ac.uk/xrt_curves/00276321/
+276205,00276205,GRB 070419A,12 10 58.63,+39 55 33.8,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00276205/
+275119,00275119,GRB 070412,12 06 10.23,+40 08 36.2,5.1,No,,True,https://www.swift.ac.uk/xrt_curves/00275119/
+275087,00275087,GRB 070411,07 09 19.82,+01 03 50.5,3.4,No,,True,https://www.swift.ac.uk/xrt_curves/00275087/
+273180,00273180,GRB 070330,17 58 9.83,-63 47 35.7,3.0,No,,True,https://www.swift.ac.uk/xrt_curves/00273180/
+263361,00263361,GRB 070306,09 52 23.41,+10 28 56.7,3.1,No,,True,https://www.swift.ac.uk/xrt_curves/00263361/
+261880,00261880,GRB 070224,11 56 6.58,-13 19 50.5,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00261880/
+261664,00261664,GRB 070223,10 13 48.73,+43 08 00.4,4.0,No,4.8,True,https://www.swift.ac.uk/xrt_curves/00261664/
+261299,00261299,GRB 070220,02 19 7.03,+68 48 17.7,3.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00261299/
+261132,00261132,GRB 070219,17 20 45.82,+69 22 12.4,3.3,Yes,,True,https://www.swift.ac.uk/xrt_curves/00261132/
+259803,00259803,GRB 070209,,,,,,False,https://www.swift.ac.uk/xrt_curves/00259803/
+259714,00259714,GRB 070208,13 11 32.59,+61 57 53.7,2.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/00259714/
+257741,00257741,GRB 070126,,,,,,False,https://www.swift.ac.uk/xrt_curves/00257741/
+255445,00255445,GRB 070110,00 03 39.17,-52 58 27.2,3.7,No,,True,https://www.swift.ac.uk/xrt_curves/00255445/
+254532,00254532,GRB 070103,23 30 13.65,+26 52 32.4,3.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00254532/
+252593,00252593,GRB 061222B,07 01 24.64,-25 51 37.6,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00252593/
+252588,00252588,GRB 061222A,23 53 3.38,+46 31 55.5,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00252588/
+251863,00251863,GRB 061218,,,,,,False,https://www.swift.ac.uk/xrt_curves/00251863/
+251634,00251634,GRB 061217,,,,,,False,https://www.swift.ac.uk/xrt_curves/00251634/
+241963,00241963,GRB 061202,07 02 6.37,-74 41 54.7,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00241963/
+241840,00241840,GRB 061201,22 08 32.46,-74 34 48.5,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00241840/
+240766,00240766,GRB 061126,05 46 24.45,+64 12 37.3,3.6,No,,True,https://www.swift.ac.uk/xrt_curves/00240766/
+238174,00238174,GRB 061110B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00238174/
+238108,00238108,GRB 061110A,22 25 9.90,-02 15 30.3,2.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/00238108/
+236430,00236430,GRB 061102,,,,,,False,https://www.swift.ac.uk/xrt_curves/00236430/
+235715,00235715,GRB 061028,06 28 54.67,+46 17 57.0,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00235715/
+235645,00235645,possible GRB 061027,,,,,,False,https://www.swift.ac.uk/xrt_curves/00235645/
+234516,00234516,GRB 061019,06 06 31.13,+29 34 11.7,3.5,No,2.0,True,https://www.swift.ac.uk/xrt_curves/00234516/
+232585,00232585,GRB 061006,07 24 7.90,-79 11 55.5,3.0,Yes,3.8,True,https://www.swift.ac.uk/xrt_curves/00232585/
+232339,00232339,GRB 061004,06 31 10.92,-45 54 24.5,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00232339/
+231702,00231702,GRB 060929,17 32 28.93,+29 50 06.6,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00231702/
+231362,00231362,GRB 060927,21 58 12.03,+05 21 50.2,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00231362/
+230711,00230711,GRB 060923C,23 04 28.38,+03 55 34.8,3.1,No,,True,https://www.swift.ac.uk/xrt_curves/00230711/
+230702,00230702,GRB 060923B,15 52 46.66,-30 54 12.9,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00230702/
+230662,00230662,GRB 060923A,16 58 28.04,+12 21 40.5,2.9,Yes,,True,https://www.swift.ac.uk/xrt_curves/00230662/
+230115,00230115,GRB 060919,18 27 41.80,-51 00 52.4,3.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00230115/
+229185,00229185,GRB 060912A,00 21 8.11,+20 58 20.5,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00229185/
+228581,00228581,GRB 060908,02 07 18.43,+00 20 33.2,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00228581/
+228006,00228006,GRB 060904B,,,,,,False,https://www.swift.ac.uk/xrt_curves/00228006/
+226382,00226382,GRB 060825,01 12 28.86,+55 47 49.5,3.4,No,,True,https://www.swift.ac.uk/xrt_curves/00226382/
+223217,00223217,GRB 060807,16 50 2.52,+31 35 29.3,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00223217/
+222683,00222683,GRB 060805A,14 43 43.44,+12 35 11.5,3.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00222683/
+222546,00222546,GRB 060804,07 28 49.30,-27 12 56.2,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00222546/
+222154,00222154,GRB 060801,14 12 1.27,+16 58 54.3,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00222154/
+221755,00221755,GRB 060729,06 21 31.48,-62 22 11.3,3.0,Yes,,True,https://www.swift.ac.uk/xrt_curves/00221755/
+221627,00221627,GRB 060728,,,,,,False,https://www.swift.ac.uk/xrt_curves/00221627/
+220020,00220020,GRB 060719,01 13 43.72,-48 22 50.8,2.7,Yes,3.3,True,https://www.swift.ac.uk/xrt_curves/00220020/
+219646,00219646,GRB 060717,,,,,,False,https://www.swift.ac.uk/xrt_curves/00219646/
+219101,00219101,GRB 060714,15 11 26.35,-06 33 58.2,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00219101/
+218582,00218582,GRB 060712,12 16 16.01,+35 32 15.9,3.1,No,,True,https://www.swift.ac.uk/xrt_curves/00218582/
+217805,00217805,GRB 060708,00 31 13.78,-33 45 32.8,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00217805/
+217704,00217704,GRB 060707,23 48 19.04,-17 54 17.7,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00217704/
+213630,00213630,GRB 060605,21 28 37.38,-06 03 31.3,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00213630/
+211957,00211957,GRB 060526,15 31 18.15,+00 17 08.9,3.1,Yes,,True,https://www.swift.ac.uk/xrt_curves/00211957/
+211117,00211117,GRB 060522,21 31 44.91,+02 53 09.8,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00211117/
+209755,00209755,GRB 060512,13 03 5.76,+41 11 26.8,2.8,Yes,,True,https://www.swift.ac.uk/xrt_curves/00209755/
+209352,00209352,GRB 060510B,15 56 27.81,+78 34 10.6,4.6,No,,True,https://www.swift.ac.uk/xrt_curves/00209352/
+209351,00209351,GRB 060510A,06 23 28.16,-01 09 46.9,2.6,Yes,,True,https://www.swift.ac.uk/xrt_curves/00209351/
+208870,00208870,GRB 060507,05 59 51.05,+75 14 53.5,4.0,No,3.0,True,https://www.swift.ac.uk/xrt_curves/00208870/
+208169,00208169,GRB 060502A,16 03 42.59,+66 36 00.6,2.7,Yes,,True,https://www.swift.ac.uk/xrt_curves/00208169/

@@ -1,0 +1,24 @@
+ ! Swift/XRT lightcurve of trigger: 114299, name: GRB 050410
+ ! T0 for this burst is Swift MET=134828073.024 s, = 2005 Apr 10 at 12:14:33.553 UT
+
+ ! Data covers 0.3-10 keV
+ ! The data are in 5 columns: ";
+ ! time, time error (+ve), time error (-ve), source flux, source error
+ ! For a detailed description of light curve production, see Evans et al. 2007 (A&A, 469, 379 )
+ ! For a detailed description of the file, see
+ ! http://www.swift.ac.uk/xrt_curves/docs.php
+ ! This lightcurve was obtained from http://www.swift.ac.uk/xrt_curves/00114299
+ ! BINMODE: GRB-like (counts)
+
+READ TERR 1 2
+! PC data
+!Time    	T_+ve   	T_-ve   	Flux    	Fluxpos 	Fluxneg
+2419.336	566.409	-504.708	5.87989319e-12	1.315864753e-12	-1.315864753e-12
+3512.763	728.400	-527.018	6.00997107e-12	1.136978343e-12	-1.136978343e-12
+8899.227	1128.918	-1173.194	3.033083968e-12	6.36013503e-13	-6.36013503e-13
+16419.902	4802.949	-2913.046	1.516692128e-12	3.325468294e-13	-3.325468294e-13
+28432.563	4704.026	-3363.556	1.03977848e-12	2.609622757e-13	-2.609622757e-13
+51782.431	27596.868	-15150.313	4.88068487e-13	8.71225809e-14	-8.71225809e-14
+198538.055	123264.552	-69104.502	9.4141461e-14	2.69195289e-14	-2.69195289e-14
+495347.071	80017.219	-139890.908	3.52909171e-14	9.58531808e-15	-9.58531808e-15
+801288.181	114938.332	-180260.303	2.135278761e-14	8.04547797e-15	-6.6779281e-15
